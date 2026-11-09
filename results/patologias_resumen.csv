@@ -1,0 +1,4 @@
+clase,sensibilidad_forward,especificidad_forward,auc_normal_vs_clase,alerta_REM_bajo_%,alerta_despertares_%
+Normal,1,0.995,,0,3
+Sueño fragmentado,0.99,1,0.9999,9,92
+Sin REM,1,1,1,100,1

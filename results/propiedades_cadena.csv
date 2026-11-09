@@ -1,0 +1,5 @@
+estado,pi_inicial,a_ii,duracion_media_epocas,distribucion_estacionaria,abs_lambda2,tiempo_relajacion_epocas
+Despierto,0.5,0.5,2,0.1664791901,0.5130492336,2.0535957
+Sueño Ligero,0.3,0.6,2.5,0.4195725534,0.5130492336,2.0535957
+Sueño Profundo,0.1,0.6,2.5,0.2305961755,0.5130492336,2.0535957
+REM,0.1,0.6,2.5,0.183352081,0.5130492336,2.0535957

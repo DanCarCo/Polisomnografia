@@ -1,0 +1,17 @@
+simbolo_generado,simbolo_extraido,conteo
+Ondas Alpha,Ondas Alpha,250
+Ondas Alpha,Ondas Theta,0
+Ondas Alpha,Ondas Delta,0
+Ondas Alpha,Mov. Oculares Rápidos,0
+Ondas Theta,Ondas Alpha,0
+Ondas Theta,Ondas Theta,250
+Ondas Theta,Ondas Delta,0
+Ondas Theta,Mov. Oculares Rápidos,0
+Ondas Delta,Ondas Alpha,0
+Ondas Delta,Ondas Theta,0
+Ondas Delta,Ondas Delta,250
+Ondas Delta,Mov. Oculares Rápidos,0
+Mov. Oculares Rápidos,Ondas Alpha,0
+Mov. Oculares Rápidos,Ondas Theta,0
+Mov. Oculares Rápidos,Ondas Delta,0
+Mov. Oculares Rápidos,Mov. Oculares Rápidos,250

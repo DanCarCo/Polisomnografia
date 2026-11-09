@@ -1,0 +1,16 @@
+{
+  "python": "3.13.14",
+  "implementacion": "CPython",
+  "sistema": "Windows 11",
+  "librerias": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.1.1",
+    "matplotlib": "3.11.2",
+    "hmmlearn": "0.3.3",
+    "pytest": "9.2.0"
+  },
+  "semilla_maestra": 42,
+  "repeticiones_por_escenario": 100,
+  "modo_rapido": false
+}

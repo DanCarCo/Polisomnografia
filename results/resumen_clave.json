@@ -1,0 +1,29 @@
+{
+  "escenarios": {
+    "E1": {
+      "acc_viterbi": 0.7136458333333333,
+      "acc_baseline": 0.701
+    },
+    "E2": {
+      "acc_viterbi": 0.7184374999999998,
+      "acc_baseline": 0.7016249999999998
+    },
+    "E3": {
+      "acc_viterbi": 0.5815208333333333,
+      "acc_baseline": 0.566
+    },
+    "E4": {
+      "acc_viterbi": 0.7534583333333331,
+      "acc_baseline": 0.6913333333333332
+    },
+    "E5": {
+      "acc_viterbi": 0.9273124999999999,
+      "acc_baseline": 0.7283124999999999
+    }
+  },
+  "entre_semillas": {
+    "sd_medias": 0.002873449397511396,
+    "media_de_medias": 0.7115229166666668
+  },
+  "extraccion_exactitud": 1.0
+}

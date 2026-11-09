@@ -1,0 +1,8 @@
+# Entorno con el que se generaron TODOS los resultados del artículo (Python 3.13.14, Windows 11).
+# Instalar con:  pip install -r requirements.txt
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.1.1
+matplotlib==3.11.2
+# hmmlearn solo se usa en las pruebas para contrastar la implementación propia (Forward/Viterbi/posteriores).
+hmmlearn==0.3.3

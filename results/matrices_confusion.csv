@@ -1,0 +1,161 @@
+scenario,decodificador,real,estimada,conteo
+E1,viterbi,Despierto,Despierto,4323
+E1,viterbi,Despierto,Sueño Ligero,2867
+E1,viterbi,Despierto,Sueño Profundo,139
+E1,viterbi,Despierto,REM,516
+E1,viterbi,Sueño Ligero,Despierto,1518
+E1,viterbi,Sueño Ligero,Sueño Ligero,15376
+E1,viterbi,Sueño Ligero,Sueño Profundo,2406
+E1,viterbi,Sueño Ligero,REM,1068
+E1,viterbi,Sueño Profundo,Despierto,72
+E1,viterbi,Sueño Profundo,Sueño Ligero,2397
+E1,viterbi,Sueño Profundo,Sueño Profundo,8008
+E1,viterbi,Sueño Profundo,REM,410
+E1,viterbi,REM,Despierto,551
+E1,viterbi,REM,Sueño Ligero,1327
+E1,viterbi,REM,Sueño Profundo,474
+E1,viterbi,REM,REM,6548
+E1,baseline,Despierto,Despierto,5512
+E1,baseline,Despierto,Sueño Ligero,1575
+E1,baseline,Despierto,Sueño Profundo,385
+E1,baseline,Despierto,REM,373
+E1,baseline,Sueño Ligero,Despierto,3032
+E1,baseline,Sueño Ligero,Sueño Ligero,13268
+E1,baseline,Sueño Ligero,Sueño Profundo,3061
+E1,baseline,Sueño Ligero,REM,1007
+E1,baseline,Sueño Profundo,Despierto,222
+E1,baseline,Sueño Profundo,Sueño Ligero,1479
+E1,baseline,Sueño Profundo,Sueño Profundo,8613
+E1,baseline,Sueño Profundo,REM,573
+E1,baseline,REM,Despierto,905
+E1,baseline,REM,Sueño Ligero,850
+E1,baseline,REM,Sueño Profundo,890
+E1,baseline,REM,REM,6255
+E2,viterbi,Despierto,Despierto,4211
+E2,viterbi,Despierto,Sueño Ligero,2761
+E2,viterbi,Despierto,Sueño Profundo,117
+E2,viterbi,Despierto,REM,532
+E2,viterbi,Sueño Ligero,Despierto,1517
+E2,viterbi,Sueño Ligero,Sueño Ligero,14589
+E2,viterbi,Sueño Ligero,Sueño Profundo,2275
+E2,viterbi,Sueño Ligero,REM,1100
+E2,viterbi,Sueño Profundo,Despierto,65
+E2,viterbi,Sueño Profundo,Sueño Ligero,2233
+E2,viterbi,Sueño Profundo,Sueño Profundo,8633
+E2,viterbi,Sueño Profundo,REM,429
+E2,viterbi,REM,Despierto,561
+E2,viterbi,REM,Sueño Ligero,1454
+E2,viterbi,REM,Sueño Profundo,471
+E2,viterbi,REM,REM,7052
+E2,baseline,Despierto,Despierto,5299
+E2,baseline,Despierto,Sueño Ligero,1522
+E2,baseline,Despierto,Sueño Profundo,417
+E2,baseline,Despierto,REM,383
+E2,baseline,Sueño Ligero,Despierto,2914
+E2,baseline,Sueño Ligero,Sueño Ligero,12691
+E2,baseline,Sueño Ligero,Sueño Profundo,2900
+E2,baseline,Sueño Ligero,REM,976
+E2,baseline,Sueño Profundo,Despierto,244
+E2,baseline,Sueño Profundo,Sueño Ligero,1486
+E2,baseline,Sueño Profundo,Sueño Profundo,9093
+E2,baseline,Sueño Profundo,REM,537
+E2,baseline,REM,Despierto,979
+E2,baseline,REM,Sueño Ligero,986
+E2,baseline,REM,Sueño Profundo,978
+E2,baseline,REM,REM,6595
+E3,viterbi,Despierto,Despierto,3363
+E3,viterbi,Despierto,Sueño Ligero,3081
+E3,viterbi,Despierto,Sueño Profundo,395
+E3,viterbi,Despierto,REM,1060
+E3,viterbi,Sueño Ligero,Despierto,1993
+E3,viterbi,Sueño Ligero,Sueño Ligero,12941
+E3,viterbi,Sueño Ligero,Sueño Profundo,2720
+E3,viterbi,Sueño Ligero,REM,2435
+E3,viterbi,Sueño Profundo,Despierto,376
+E3,viterbi,Sueño Profundo,Sueño Ligero,3385
+E3,viterbi,Sueño Profundo,Sueño Profundo,6183
+E3,viterbi,Sueño Profundo,REM,1209
+E3,viterbi,REM,Despierto,850
+E3,viterbi,REM,Sueño Ligero,1886
+E3,viterbi,REM,Sueño Profundo,697
+E3,viterbi,REM,REM,5426
+E3,baseline,Despierto,Despierto,4463
+E3,baseline,Despierto,Sueño Ligero,1690
+E3,baseline,Despierto,Sueño Profundo,907
+E3,baseline,Despierto,REM,839
+E3,baseline,Sueño Ligero,Despierto,3648
+E3,baseline,Sueño Ligero,Sueño Ligero,10645
+E3,baseline,Sueño Ligero,Sueño Profundo,3633
+E3,baseline,Sueño Ligero,REM,2163
+E3,baseline,Sueño Profundo,Despierto,987
+E3,baseline,Sueño Profundo,Sueño Ligero,1815
+E3,baseline,Sueño Profundo,Sueño Profundo,7133
+E3,baseline,Sueño Profundo,REM,1218
+E3,baseline,REM,Despierto,1352
+E3,baseline,REM,Sueño Ligero,1321
+E3,baseline,REM,Sueño Profundo,1259
+E3,baseline,REM,REM,4927
+E4,viterbi,Despierto,Despierto,4933
+E4,viterbi,Despierto,Sueño Ligero,2803
+E4,viterbi,Despierto,Sueño Profundo,9
+E4,viterbi,Despierto,REM,284
+E4,viterbi,Sueño Ligero,Despierto,1398
+E4,viterbi,Sueño Ligero,Sueño Ligero,15793
+E4,viterbi,Sueño Ligero,Sueño Profundo,1969
+E4,viterbi,Sueño Ligero,REM,934
+E4,viterbi,Sueño Profundo,Despierto,1
+E4,viterbi,Sueño Profundo,Sueño Ligero,2330
+E4,viterbi,Sueño Profundo,Sueño Profundo,8514
+E4,viterbi,Sueño Profundo,REM,154
+E4,viterbi,REM,Despierto,277
+E4,viterbi,REM,Sueño Ligero,1475
+E4,viterbi,REM,Sueño Profundo,200
+E4,viterbi,REM,REM,6926
+E4,baseline,Despierto,Despierto,4421
+E4,baseline,Despierto,Sueño Ligero,3323
+E4,baseline,Despierto,Sueño Profundo,25
+E4,baseline,Despierto,REM,260
+E4,baseline,Sueño Ligero,Despierto,1648
+E4,baseline,Sueño Ligero,Sueño Ligero,15045
+E4,baseline,Sueño Ligero,Sueño Profundo,2177
+E4,baseline,Sueño Ligero,REM,1224
+E4,baseline,Sueño Profundo,Despierto,10
+E4,baseline,Sueño Profundo,Sueño Ligero,2945
+E4,baseline,Sueño Profundo,Sueño Profundo,7682
+E4,baseline,Sueño Profundo,REM,362
+E4,baseline,REM,Despierto,312
+E4,baseline,REM,Sueño Ligero,2100
+E4,baseline,REM,Sueño Profundo,430
+E4,baseline,REM,REM,6036
+E5,viterbi,Despierto,Despierto,2014
+E5,viterbi,Despierto,Sueño Ligero,1059
+E5,viterbi,Despierto,Sueño Profundo,9
+E5,viterbi,Despierto,REM,139
+E5,viterbi,Sueño Ligero,Despierto,355
+E5,viterbi,Sueño Ligero,Sueño Ligero,22176
+E5,viterbi,Sueño Ligero,Sueño Profundo,540
+E5,viterbi,Sueño Ligero,REM,207
+E5,viterbi,Sueño Profundo,Despierto,6
+E5,viterbi,Sueño Profundo,Sueño Ligero,626
+E5,viterbi,Sueño Profundo,Sueño Profundo,11517
+E5,viterbi,Sueño Profundo,REM,55
+E5,viterbi,REM,Despierto,89
+E5,viterbi,REM,Sueño Ligero,351
+E5,viterbi,REM,Sueño Profundo,53
+E5,viterbi,REM,REM,8804
+E5,baseline,Despierto,Despierto,0
+E5,baseline,Despierto,Sueño Ligero,2881
+E5,baseline,Despierto,Sueño Profundo,146
+E5,baseline,Despierto,REM,194
+E5,baseline,Sueño Ligero,Despierto,0
+E5,baseline,Sueño Ligero,Sueño Ligero,18631
+E5,baseline,Sueño Ligero,Sueño Profundo,3421
+E5,baseline,Sueño Ligero,REM,1226
+E5,baseline,Sueño Profundo,Despierto,0
+E5,baseline,Sueño Profundo,Sueño Ligero,1815
+E5,baseline,Sueño Profundo,Sueño Profundo,9806
+E5,baseline,Sueño Profundo,REM,583
+E5,baseline,REM,Despierto,0
+E5,baseline,REM,Sueño Ligero,1848
+E5,baseline,REM,Sueño Profundo,927
+E5,baseline,REM,REM,6522

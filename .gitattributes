@@ -1,0 +1,9 @@
+# Finales de línea: LF en el repositorio y también al clonar en Windows.
+# Las sumas SHA-256 de results/SHA256SUMS.txt se calcularon con archivos en LF;
+# con CRLF (autocrlf de Git para Windows) `sha256sum -c` dejaría de coincidir.
+* text=auto eol=lf
+
+# Binarios: nunca se tocan.
+*.png binary
+*.pdf binary
+*.pptx binary

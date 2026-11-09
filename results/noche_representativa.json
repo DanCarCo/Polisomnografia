@@ -1,0 +1,6 @@
+{
+  "escenario": "E1",
+  "replica": 29,
+  "criterio": "exactitud de Viterbi más cercana a la mediana",
+  "exactitud": 0.7125
+}

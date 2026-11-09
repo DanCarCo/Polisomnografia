@@ -1,0 +1,1201 @@
+estado_inicial,decodificador,rep,acc_primeras,acc_resto,acc_total
+Despierto,pi_nominal,0,0.7,0.7340425532,0.7333333333
+Despierto,pi_nominal,1,0.6,0.7659574468,0.7625
+Despierto,pi_nominal,2,0.5,0.729787234,0.725
+Despierto,pi_nominal,3,0.6,0.7234042553,0.7208333333
+Despierto,pi_nominal,4,0.3,0.6893617021,0.68125
+Despierto,pi_nominal,5,0.7,0.7255319149,0.725
+Despierto,pi_nominal,6,1,0.670212766,0.6770833333
+Despierto,pi_nominal,7,0.8,0.7212765957,0.7229166667
+Despierto,pi_nominal,8,0.7,0.6936170213,0.69375
+Despierto,pi_nominal,9,0.7,0.7468085106,0.7458333333
+Despierto,pi_nominal,10,0.6,0.6765957447,0.675
+Despierto,pi_nominal,11,0.7,0.6936170213,0.69375
+Despierto,pi_nominal,12,0.9,0.7446808511,0.7479166667
+Despierto,pi_nominal,13,0.5,0.670212766,0.6666666667
+Despierto,pi_nominal,14,0.6,0.6872340426,0.6854166667
+Despierto,pi_nominal,15,0.8,0.7446808511,0.7458333333
+Despierto,pi_nominal,16,0.6,0.7,0.6979166667
+Despierto,pi_nominal,17,0.7,0.7042553191,0.7041666667
+Despierto,pi_nominal,18,0.6,0.6893617021,0.6875
+Despierto,pi_nominal,19,0.7,0.7212765957,0.7208333333
+Despierto,pi_nominal,20,0.8,0.6936170213,0.6958333333
+Despierto,pi_nominal,21,0.4,0.7085106383,0.7020833333
+Despierto,pi_nominal,22,1,0.7127659574,0.71875
+Despierto,pi_nominal,23,0.8,0.6872340426,0.6895833333
+Despierto,pi_nominal,24,0.6,0.7468085106,0.74375
+Despierto,pi_nominal,25,0.8,0.7212765957,0.7229166667
+Despierto,pi_nominal,26,0.7,0.7510638298,0.75
+Despierto,pi_nominal,27,0.8,0.7382978723,0.7395833333
+Despierto,pi_nominal,28,0.9,0.6765957447,0.68125
+Despierto,pi_nominal,29,0.7,0.7,0.7
+Despierto,pi_nominal,30,0.5,0.7,0.6958333333
+Despierto,pi_nominal,31,0.8,0.7382978723,0.7395833333
+Despierto,pi_nominal,32,0.7,0.7276595745,0.7270833333
+Despierto,pi_nominal,33,0.9,0.729787234,0.7333333333
+Despierto,pi_nominal,34,0.8,0.7574468085,0.7583333333
+Despierto,pi_nominal,35,0.8,0.7234042553,0.725
+Despierto,pi_nominal,36,0.5,0.6765957447,0.6729166667
+Despierto,pi_nominal,37,0.4,0.7191489362,0.7125
+Despierto,pi_nominal,38,0.4,0.729787234,0.7229166667
+Despierto,pi_nominal,39,0.6,0.6638297872,0.6625
+Despierto,pi_nominal,40,0.5,0.7191489362,0.7145833333
+Despierto,pi_nominal,41,0.5,0.7042553191,0.7
+Despierto,pi_nominal,42,0.9,0.7212765957,0.725
+Despierto,pi_nominal,43,0.8,0.7276595745,0.7291666667
+Despierto,pi_nominal,44,1,0.7106382979,0.7166666667
+Despierto,pi_nominal,45,1,0.7106382979,0.7166666667
+Despierto,pi_nominal,46,0.8,0.7255319149,0.7270833333
+Despierto,pi_nominal,47,0.9,0.7425531915,0.7458333333
+Despierto,pi_nominal,48,0.7,0.7425531915,0.7416666667
+Despierto,pi_nominal,49,0.7,0.7191489362,0.71875
+Despierto,pi_nominal,50,0.7,0.7510638298,0.75
+Despierto,pi_nominal,51,0.9,0.6893617021,0.69375
+Despierto,pi_nominal,52,0.8,0.6957446809,0.6979166667
+Despierto,pi_nominal,53,0.6,0.729787234,0.7270833333
+Despierto,pi_nominal,54,0.8,0.6957446809,0.6979166667
+Despierto,pi_nominal,55,0.9,0.7340425532,0.7375
+Despierto,pi_nominal,56,0.5,0.714893617,0.7104166667
+Despierto,pi_nominal,57,0.6,0.7382978723,0.7354166667
+Despierto,pi_nominal,58,0.3,0.6468085106,0.6395833333
+Despierto,pi_nominal,59,0.5,0.670212766,0.6666666667
+Despierto,pi_nominal,60,0.9,0.6787234043,0.6833333333
+Despierto,pi_nominal,61,0.5,0.7170212766,0.7125
+Despierto,pi_nominal,62,0.6,0.729787234,0.7270833333
+Despierto,pi_nominal,63,0.5,0.6765957447,0.6729166667
+Despierto,pi_nominal,64,0.8,0.7361702128,0.7375
+Despierto,pi_nominal,65,0.6,0.7872340426,0.7833333333
+Despierto,pi_nominal,66,0.9,0.6957446809,0.7
+Despierto,pi_nominal,67,0.6,0.7255319149,0.7229166667
+Despierto,pi_nominal,68,0.7,0.7319148936,0.73125
+Despierto,pi_nominal,69,0.9,0.7468085106,0.75
+Despierto,pi_nominal,70,0.7,0.7170212766,0.7166666667
+Despierto,pi_nominal,71,0.8,0.7212765957,0.7229166667
+Despierto,pi_nominal,72,0.5,0.6957446809,0.6916666667
+Despierto,pi_nominal,73,1,0.7382978723,0.74375
+Despierto,pi_nominal,74,1,0.7404255319,0.7458333333
+Despierto,pi_nominal,75,0.6,0.7340425532,0.73125
+Despierto,pi_nominal,76,0.5,0.7276595745,0.7229166667
+Despierto,pi_nominal,77,0.5,0.7042553191,0.7
+Despierto,pi_nominal,78,0.6,0.7319148936,0.7291666667
+Despierto,pi_nominal,79,0.5,0.7063829787,0.7020833333
+Despierto,pi_nominal,80,0.8,0.6936170213,0.6958333333
+Despierto,pi_nominal,81,0.7,0.7063829787,0.70625
+Despierto,pi_nominal,82,0.8,0.7425531915,0.74375
+Despierto,pi_nominal,83,1,0.714893617,0.7208333333
+Despierto,pi_nominal,84,0.7,0.7212765957,0.7208333333
+Despierto,pi_nominal,85,0.6,0.6765957447,0.675
+Despierto,pi_nominal,86,0.8,0.7,0.7020833333
+Despierto,pi_nominal,87,0.7,0.729787234,0.7291666667
+Despierto,pi_nominal,88,0.7,0.6914893617,0.6916666667
+Despierto,pi_nominal,89,0.7,0.770212766,0.76875
+Despierto,pi_nominal,90,0.8,0.7106382979,0.7125
+Despierto,pi_nominal,91,0.7,0.7361702128,0.7354166667
+Despierto,pi_nominal,92,0.7,0.6829787234,0.6833333333
+Despierto,pi_nominal,93,0.8,0.6531914894,0.65625
+Despierto,pi_nominal,94,0.9,0.7404255319,0.74375
+Despierto,pi_nominal,95,0.6,0.7063829787,0.7041666667
+Despierto,pi_nominal,96,0.7,0.6659574468,0.6666666667
+Despierto,pi_nominal,97,0.8,0.7042553191,0.70625
+Despierto,pi_nominal,98,0.8,0.685106383,0.6875
+Despierto,pi_nominal,99,1,0.7,0.70625
+Despierto,pi_uniforme,0,0.7,0.7340425532,0.7333333333
+Despierto,pi_uniforme,1,0.6,0.7659574468,0.7625
+Despierto,pi_uniforme,2,0.5,0.729787234,0.725
+Despierto,pi_uniforme,3,0.6,0.7234042553,0.7208333333
+Despierto,pi_uniforme,4,0.3,0.6893617021,0.68125
+Despierto,pi_uniforme,5,0.7,0.7255319149,0.725
+Despierto,pi_uniforme,6,1,0.670212766,0.6770833333
+Despierto,pi_uniforme,7,0.8,0.7212765957,0.7229166667
+Despierto,pi_uniforme,8,0.7,0.6936170213,0.69375
+Despierto,pi_uniforme,9,0.7,0.7468085106,0.7458333333
+Despierto,pi_uniforme,10,0.6,0.6765957447,0.675
+Despierto,pi_uniforme,11,0.7,0.6936170213,0.69375
+Despierto,pi_uniforme,12,0.9,0.7446808511,0.7479166667
+Despierto,pi_uniforme,13,0.5,0.670212766,0.6666666667
+Despierto,pi_uniforme,14,0.6,0.6872340426,0.6854166667
+Despierto,pi_uniforme,15,0.6,0.7446808511,0.7416666667
+Despierto,pi_uniforme,16,0.6,0.7,0.6979166667
+Despierto,pi_uniforme,17,0.7,0.7042553191,0.7041666667
+Despierto,pi_uniforme,18,0.6,0.6893617021,0.6875
+Despierto,pi_uniforme,19,0.7,0.7212765957,0.7208333333
+Despierto,pi_uniforme,20,0.8,0.6936170213,0.6958333333
+Despierto,pi_uniforme,21,0.4,0.7085106383,0.7020833333
+Despierto,pi_uniforme,22,0.8,0.7127659574,0.7145833333
+Despierto,pi_uniforme,23,0.8,0.6872340426,0.6895833333
+Despierto,pi_uniforme,24,0.6,0.7468085106,0.74375
+Despierto,pi_uniforme,25,0.8,0.7212765957,0.7229166667
+Despierto,pi_uniforme,26,0.7,0.7510638298,0.75
+Despierto,pi_uniforme,27,0.8,0.7382978723,0.7395833333
+Despierto,pi_uniforme,28,0.7,0.6765957447,0.6770833333
+Despierto,pi_uniforme,29,0.7,0.7,0.7
+Despierto,pi_uniforme,30,0.5,0.7,0.6958333333
+Despierto,pi_uniforme,31,0.8,0.7382978723,0.7395833333
+Despierto,pi_uniforme,32,0.7,0.7276595745,0.7270833333
+Despierto,pi_uniforme,33,0.9,0.729787234,0.7333333333
+Despierto,pi_uniforme,34,0.8,0.7574468085,0.7583333333
+Despierto,pi_uniforme,35,0.7,0.7234042553,0.7229166667
+Despierto,pi_uniforme,36,0.5,0.6765957447,0.6729166667
+Despierto,pi_uniforme,37,0.4,0.7191489362,0.7125
+Despierto,pi_uniforme,38,0.4,0.729787234,0.7229166667
+Despierto,pi_uniforme,39,0.4,0.6638297872,0.6583333333
+Despierto,pi_uniforme,40,0.5,0.7191489362,0.7145833333
+Despierto,pi_uniforme,41,0.5,0.7042553191,0.7
+Despierto,pi_uniforme,42,0.9,0.7212765957,0.725
+Despierto,pi_uniforme,43,0.8,0.7276595745,0.7291666667
+Despierto,pi_uniforme,44,1,0.7106382979,0.7166666667
+Despierto,pi_uniforme,45,1,0.7106382979,0.7166666667
+Despierto,pi_uniforme,46,0.8,0.7255319149,0.7270833333
+Despierto,pi_uniforme,47,0.9,0.7425531915,0.7458333333
+Despierto,pi_uniforme,48,0.7,0.7425531915,0.7416666667
+Despierto,pi_uniforme,49,0.7,0.7191489362,0.71875
+Despierto,pi_uniforme,50,0.7,0.7510638298,0.75
+Despierto,pi_uniforme,51,0.9,0.6893617021,0.69375
+Despierto,pi_uniforme,52,0.6,0.6957446809,0.69375
+Despierto,pi_uniforme,53,0.6,0.729787234,0.7270833333
+Despierto,pi_uniforme,54,0.8,0.6957446809,0.6979166667
+Despierto,pi_uniforme,55,0.7,0.7340425532,0.7333333333
+Despierto,pi_uniforme,56,0.5,0.714893617,0.7104166667
+Despierto,pi_uniforme,57,0.6,0.7382978723,0.7354166667
+Despierto,pi_uniforme,58,0.3,0.6468085106,0.6395833333
+Despierto,pi_uniforme,59,0.5,0.670212766,0.6666666667
+Despierto,pi_uniforme,60,0.9,0.6787234043,0.6833333333
+Despierto,pi_uniforme,61,0.5,0.7170212766,0.7125
+Despierto,pi_uniforme,62,0.6,0.729787234,0.7270833333
+Despierto,pi_uniforme,63,0.5,0.6765957447,0.6729166667
+Despierto,pi_uniforme,64,0.8,0.7361702128,0.7375
+Despierto,pi_uniforme,65,0.6,0.7872340426,0.7833333333
+Despierto,pi_uniforme,66,0.9,0.6957446809,0.7
+Despierto,pi_uniforme,67,0.6,0.7255319149,0.7229166667
+Despierto,pi_uniforme,68,0.7,0.7319148936,0.73125
+Despierto,pi_uniforme,69,0.9,0.7468085106,0.75
+Despierto,pi_uniforme,70,0.7,0.7170212766,0.7166666667
+Despierto,pi_uniforme,71,0.8,0.7212765957,0.7229166667
+Despierto,pi_uniforme,72,0.5,0.6957446809,0.6916666667
+Despierto,pi_uniforme,73,1,0.7382978723,0.74375
+Despierto,pi_uniforme,74,1,0.7404255319,0.7458333333
+Despierto,pi_uniforme,75,0.6,0.7340425532,0.73125
+Despierto,pi_uniforme,76,0.5,0.7276595745,0.7229166667
+Despierto,pi_uniforme,77,0.5,0.7042553191,0.7
+Despierto,pi_uniforme,78,0.6,0.7319148936,0.7291666667
+Despierto,pi_uniforme,79,0.5,0.7063829787,0.7020833333
+Despierto,pi_uniforme,80,0.8,0.6936170213,0.6958333333
+Despierto,pi_uniforme,81,0.7,0.7063829787,0.70625
+Despierto,pi_uniforme,82,0.8,0.7425531915,0.74375
+Despierto,pi_uniforme,83,1,0.714893617,0.7208333333
+Despierto,pi_uniforme,84,0.7,0.7212765957,0.7208333333
+Despierto,pi_uniforme,85,0.6,0.6765957447,0.675
+Despierto,pi_uniforme,86,0.8,0.7,0.7020833333
+Despierto,pi_uniforme,87,0.7,0.729787234,0.7291666667
+Despierto,pi_uniforme,88,0.7,0.6914893617,0.6916666667
+Despierto,pi_uniforme,89,0.7,0.770212766,0.76875
+Despierto,pi_uniforme,90,0.8,0.7106382979,0.7125
+Despierto,pi_uniforme,91,0.7,0.7361702128,0.7354166667
+Despierto,pi_uniforme,92,0.7,0.6829787234,0.6833333333
+Despierto,pi_uniforme,93,0.8,0.6531914894,0.65625
+Despierto,pi_uniforme,94,0.9,0.7404255319,0.74375
+Despierto,pi_uniforme,95,0.6,0.7063829787,0.7041666667
+Despierto,pi_uniforme,96,0.7,0.6659574468,0.6666666667
+Despierto,pi_uniforme,97,0.8,0.7042553191,0.70625
+Despierto,pi_uniforme,98,0.8,0.685106383,0.6875
+Despierto,pi_uniforme,99,1,0.7,0.70625
+Despierto,pi_estacionaria,0,0.5,0.7340425532,0.7291666667
+Despierto,pi_estacionaria,1,0.6,0.7659574468,0.7625
+Despierto,pi_estacionaria,2,0.5,0.729787234,0.725
+Despierto,pi_estacionaria,3,0.6,0.7234042553,0.7208333333
+Despierto,pi_estacionaria,4,0.3,0.6893617021,0.68125
+Despierto,pi_estacionaria,5,0.7,0.7255319149,0.725
+Despierto,pi_estacionaria,6,0.9,0.670212766,0.675
+Despierto,pi_estacionaria,7,0.8,0.7212765957,0.7229166667
+Despierto,pi_estacionaria,8,0.7,0.6936170213,0.69375
+Despierto,pi_estacionaria,9,0.6,0.7468085106,0.74375
+Despierto,pi_estacionaria,10,0.6,0.6765957447,0.675
+Despierto,pi_estacionaria,11,0.7,0.6936170213,0.69375
+Despierto,pi_estacionaria,12,0.8,0.7446808511,0.7458333333
+Despierto,pi_estacionaria,13,0.5,0.670212766,0.6666666667
+Despierto,pi_estacionaria,14,0.6,0.6872340426,0.6854166667
+Despierto,pi_estacionaria,15,0.6,0.7446808511,0.7416666667
+Despierto,pi_estacionaria,16,0.6,0.7,0.6979166667
+Despierto,pi_estacionaria,17,0.7,0.7042553191,0.7041666667
+Despierto,pi_estacionaria,18,0.6,0.6893617021,0.6875
+Despierto,pi_estacionaria,19,0.7,0.7212765957,0.7208333333
+Despierto,pi_estacionaria,20,0.8,0.6936170213,0.6958333333
+Despierto,pi_estacionaria,21,0.4,0.7085106383,0.7020833333
+Despierto,pi_estacionaria,22,0.8,0.7127659574,0.7145833333
+Despierto,pi_estacionaria,23,0.8,0.6872340426,0.6895833333
+Despierto,pi_estacionaria,24,0.3,0.7468085106,0.7375
+Despierto,pi_estacionaria,25,0.8,0.7212765957,0.7229166667
+Despierto,pi_estacionaria,26,0.7,0.7510638298,0.75
+Despierto,pi_estacionaria,27,0.8,0.7382978723,0.7395833333
+Despierto,pi_estacionaria,28,0.7,0.6765957447,0.6770833333
+Despierto,pi_estacionaria,29,0.7,0.7,0.7
+Despierto,pi_estacionaria,30,0.5,0.7,0.6958333333
+Despierto,pi_estacionaria,31,0.8,0.7382978723,0.7395833333
+Despierto,pi_estacionaria,32,0.7,0.7276595745,0.7270833333
+Despierto,pi_estacionaria,33,0.9,0.729787234,0.7333333333
+Despierto,pi_estacionaria,34,0.8,0.7574468085,0.7583333333
+Despierto,pi_estacionaria,35,0.7,0.7234042553,0.7229166667
+Despierto,pi_estacionaria,36,0.4,0.6765957447,0.6708333333
+Despierto,pi_estacionaria,37,0.4,0.7191489362,0.7125
+Despierto,pi_estacionaria,38,0.4,0.729787234,0.7229166667
+Despierto,pi_estacionaria,39,0.4,0.6638297872,0.6583333333
+Despierto,pi_estacionaria,40,0.4,0.7191489362,0.7125
+Despierto,pi_estacionaria,41,0.5,0.7042553191,0.7
+Despierto,pi_estacionaria,42,0.9,0.7212765957,0.725
+Despierto,pi_estacionaria,43,0.8,0.7276595745,0.7291666667
+Despierto,pi_estacionaria,44,1,0.7106382979,0.7166666667
+Despierto,pi_estacionaria,45,1,0.7106382979,0.7166666667
+Despierto,pi_estacionaria,46,0.8,0.7255319149,0.7270833333
+Despierto,pi_estacionaria,47,0.9,0.7425531915,0.7458333333
+Despierto,pi_estacionaria,48,0.7,0.7425531915,0.7416666667
+Despierto,pi_estacionaria,49,0.5,0.7191489362,0.7145833333
+Despierto,pi_estacionaria,50,0.7,0.7510638298,0.75
+Despierto,pi_estacionaria,51,0.9,0.6893617021,0.69375
+Despierto,pi_estacionaria,52,0.6,0.6957446809,0.69375
+Despierto,pi_estacionaria,53,0.6,0.729787234,0.7270833333
+Despierto,pi_estacionaria,54,0.8,0.6957446809,0.6979166667
+Despierto,pi_estacionaria,55,0.7,0.7340425532,0.7333333333
+Despierto,pi_estacionaria,56,0.5,0.714893617,0.7104166667
+Despierto,pi_estacionaria,57,0.6,0.7382978723,0.7354166667
+Despierto,pi_estacionaria,58,0.3,0.6468085106,0.6395833333
+Despierto,pi_estacionaria,59,0.5,0.670212766,0.6666666667
+Despierto,pi_estacionaria,60,0.8,0.6787234043,0.68125
+Despierto,pi_estacionaria,61,0.5,0.7170212766,0.7125
+Despierto,pi_estacionaria,62,0.6,0.729787234,0.7270833333
+Despierto,pi_estacionaria,63,0.5,0.6765957447,0.6729166667
+Despierto,pi_estacionaria,64,0.8,0.7361702128,0.7375
+Despierto,pi_estacionaria,65,0.6,0.7872340426,0.7833333333
+Despierto,pi_estacionaria,66,0.9,0.6957446809,0.7
+Despierto,pi_estacionaria,67,0.6,0.7255319149,0.7229166667
+Despierto,pi_estacionaria,68,0.7,0.7319148936,0.73125
+Despierto,pi_estacionaria,69,0.9,0.7468085106,0.75
+Despierto,pi_estacionaria,70,0.7,0.7170212766,0.7166666667
+Despierto,pi_estacionaria,71,0.8,0.7212765957,0.7229166667
+Despierto,pi_estacionaria,72,0.5,0.6957446809,0.6916666667
+Despierto,pi_estacionaria,73,1,0.7382978723,0.74375
+Despierto,pi_estacionaria,74,1,0.7404255319,0.7458333333
+Despierto,pi_estacionaria,75,0.4,0.7340425532,0.7270833333
+Despierto,pi_estacionaria,76,0.5,0.7276595745,0.7229166667
+Despierto,pi_estacionaria,77,0.5,0.7042553191,0.7
+Despierto,pi_estacionaria,78,0.5,0.7319148936,0.7270833333
+Despierto,pi_estacionaria,79,0.5,0.7063829787,0.7020833333
+Despierto,pi_estacionaria,80,0.8,0.6936170213,0.6958333333
+Despierto,pi_estacionaria,81,0.7,0.7063829787,0.70625
+Despierto,pi_estacionaria,82,0.6,0.7425531915,0.7395833333
+Despierto,pi_estacionaria,83,1,0.714893617,0.7208333333
+Despierto,pi_estacionaria,84,0.7,0.7212765957,0.7208333333
+Despierto,pi_estacionaria,85,0.6,0.6765957447,0.675
+Despierto,pi_estacionaria,86,0.8,0.7,0.7020833333
+Despierto,pi_estacionaria,87,0.7,0.729787234,0.7291666667
+Despierto,pi_estacionaria,88,0.7,0.6914893617,0.6916666667
+Despierto,pi_estacionaria,89,0.7,0.770212766,0.76875
+Despierto,pi_estacionaria,90,0.7,0.7106382979,0.7104166667
+Despierto,pi_estacionaria,91,0.6,0.7361702128,0.7333333333
+Despierto,pi_estacionaria,92,0.7,0.6829787234,0.6833333333
+Despierto,pi_estacionaria,93,0.8,0.6531914894,0.65625
+Despierto,pi_estacionaria,94,0.8,0.7404255319,0.7416666667
+Despierto,pi_estacionaria,95,0.6,0.7063829787,0.7041666667
+Despierto,pi_estacionaria,96,0.7,0.6659574468,0.6666666667
+Despierto,pi_estacionaria,97,0.7,0.7042553191,0.7041666667
+Despierto,pi_estacionaria,98,0.8,0.685106383,0.6875
+Despierto,pi_estacionaria,99,1,0.7,0.70625
+Sueño Ligero,pi_nominal,0,0.8,0.7127659574,0.7145833333
+Sueño Ligero,pi_nominal,1,0.8,0.7319148936,0.7333333333
+Sueño Ligero,pi_nominal,2,0.6,0.6808510638,0.6791666667
+Sueño Ligero,pi_nominal,3,0.5,0.7340425532,0.7291666667
+Sueño Ligero,pi_nominal,4,0.7,0.7063829787,0.70625
+Sueño Ligero,pi_nominal,5,0.9,0.6957446809,0.7
+Sueño Ligero,pi_nominal,6,0.8,0.7468085106,0.7479166667
+Sueño Ligero,pi_nominal,7,0.5,0.6936170213,0.6895833333
+Sueño Ligero,pi_nominal,8,0.7,0.6978723404,0.6979166667
+Sueño Ligero,pi_nominal,9,0.7,0.7021276596,0.7020833333
+Sueño Ligero,pi_nominal,10,0.6,0.7489361702,0.7458333333
+Sueño Ligero,pi_nominal,11,0.9,0.7170212766,0.7208333333
+Sueño Ligero,pi_nominal,12,0.5,0.7063829787,0.7020833333
+Sueño Ligero,pi_nominal,13,0.5,0.7234042553,0.71875
+Sueño Ligero,pi_nominal,14,0.9,0.7212765957,0.725
+Sueño Ligero,pi_nominal,15,0.6,0.7127659574,0.7104166667
+Sueño Ligero,pi_nominal,16,0.6,0.7191489362,0.7166666667
+Sueño Ligero,pi_nominal,17,0.5,0.7659574468,0.7604166667
+Sueño Ligero,pi_nominal,18,0.6,0.6808510638,0.6791666667
+Sueño Ligero,pi_nominal,19,0.4,0.7063829787,0.7
+Sueño Ligero,pi_nominal,20,0.7,0.7170212766,0.7166666667
+Sueño Ligero,pi_nominal,21,0.8,0.7234042553,0.725
+Sueño Ligero,pi_nominal,22,0.4,0.7446808511,0.7375
+Sueño Ligero,pi_nominal,23,0.5,0.7234042553,0.71875
+Sueño Ligero,pi_nominal,24,0.2,0.6872340426,0.6770833333
+Sueño Ligero,pi_nominal,25,0.4,0.6872340426,0.68125
+Sueño Ligero,pi_nominal,26,0.7,0.7425531915,0.7416666667
+Sueño Ligero,pi_nominal,27,0.4,0.7638297872,0.75625
+Sueño Ligero,pi_nominal,28,0.7,0.6978723404,0.6979166667
+Sueño Ligero,pi_nominal,29,0.8,0.6659574468,0.66875
+Sueño Ligero,pi_nominal,30,0.9,0.7021276596,0.70625
+Sueño Ligero,pi_nominal,31,0.7,0.7595744681,0.7583333333
+Sueño Ligero,pi_nominal,32,0.6,0.7085106383,0.70625
+Sueño Ligero,pi_nominal,33,0.6,0.7340425532,0.73125
+Sueño Ligero,pi_nominal,34,0.4,0.7127659574,0.70625
+Sueño Ligero,pi_nominal,35,0.8,0.7638297872,0.7645833333
+Sueño Ligero,pi_nominal,36,0.9,0.7382978723,0.7416666667
+Sueño Ligero,pi_nominal,37,0.7,0.6957446809,0.6958333333
+Sueño Ligero,pi_nominal,38,0.8,0.7510638298,0.7520833333
+Sueño Ligero,pi_nominal,39,0.6,0.6659574468,0.6645833333
+Sueño Ligero,pi_nominal,40,0.6,0.7425531915,0.7395833333
+Sueño Ligero,pi_nominal,41,0.4,0.7617021277,0.7541666667
+Sueño Ligero,pi_nominal,42,1,0.729787234,0.7354166667
+Sueño Ligero,pi_nominal,43,0.6,0.729787234,0.7270833333
+Sueño Ligero,pi_nominal,44,0.5,0.7085106383,0.7041666667
+Sueño Ligero,pi_nominal,45,0.7,0.7234042553,0.7229166667
+Sueño Ligero,pi_nominal,46,0.6,0.685106383,0.6833333333
+Sueño Ligero,pi_nominal,47,0.5,0.7255319149,0.7208333333
+Sueño Ligero,pi_nominal,48,0.8,0.6829787234,0.6854166667
+Sueño Ligero,pi_nominal,49,0.6,0.7,0.6979166667
+Sueño Ligero,pi_nominal,50,0.7,0.7255319149,0.725
+Sueño Ligero,pi_nominal,51,0.9,0.6893617021,0.69375
+Sueño Ligero,pi_nominal,52,0.9,0.670212766,0.675
+Sueño Ligero,pi_nominal,53,0.9,0.7255319149,0.7291666667
+Sueño Ligero,pi_nominal,54,0.6,0.7319148936,0.7291666667
+Sueño Ligero,pi_nominal,55,0.6,0.7510638298,0.7479166667
+Sueño Ligero,pi_nominal,56,1,0.729787234,0.7354166667
+Sueño Ligero,pi_nominal,57,0.9,0.6957446809,0.7
+Sueño Ligero,pi_nominal,58,0.5,0.7425531915,0.7375
+Sueño Ligero,pi_nominal,59,0.6,0.7617021277,0.7583333333
+Sueño Ligero,pi_nominal,60,0.5,0.6680851064,0.6645833333
+Sueño Ligero,pi_nominal,61,0.7,0.7021276596,0.7020833333
+Sueño Ligero,pi_nominal,62,0.9,0.7191489362,0.7229166667
+Sueño Ligero,pi_nominal,63,0.4,0.7042553191,0.6979166667
+Sueño Ligero,pi_nominal,64,0.9,0.6872340426,0.6916666667
+Sueño Ligero,pi_nominal,65,0.5,0.7212765957,0.7166666667
+Sueño Ligero,pi_nominal,66,0.9,0.7787234043,0.78125
+Sueño Ligero,pi_nominal,67,0.4,0.7468085106,0.7395833333
+Sueño Ligero,pi_nominal,68,0.5,0.6595744681,0.65625
+Sueño Ligero,pi_nominal,69,0.6,0.6872340426,0.6854166667
+Sueño Ligero,pi_nominal,70,0.5,0.6893617021,0.6854166667
+Sueño Ligero,pi_nominal,71,0.9,0.6744680851,0.6791666667
+Sueño Ligero,pi_nominal,72,0.6,0.6978723404,0.6958333333
+Sueño Ligero,pi_nominal,73,0.9,0.714893617,0.71875
+Sueño Ligero,pi_nominal,74,0.6,0.6936170213,0.6916666667
+Sueño Ligero,pi_nominal,75,0.7,0.6914893617,0.6916666667
+Sueño Ligero,pi_nominal,76,1,0.6978723404,0.7041666667
+Sueño Ligero,pi_nominal,77,0.7,0.7617021277,0.7604166667
+Sueño Ligero,pi_nominal,78,0.6,0.6829787234,0.68125
+Sueño Ligero,pi_nominal,79,0.9,0.6936170213,0.6979166667
+Sueño Ligero,pi_nominal,80,0.4,0.6787234043,0.6729166667
+Sueño Ligero,pi_nominal,81,0.5,0.7276595745,0.7229166667
+Sueño Ligero,pi_nominal,82,0.9,0.7106382979,0.7145833333
+Sueño Ligero,pi_nominal,83,0.7,0.7361702128,0.7354166667
+Sueño Ligero,pi_nominal,84,0.4,0.6893617021,0.6833333333
+Sueño Ligero,pi_nominal,85,0.9,0.6872340426,0.6916666667
+Sueño Ligero,pi_nominal,86,0.9,0.7234042553,0.7270833333
+Sueño Ligero,pi_nominal,87,0.8,0.6936170213,0.6958333333
+Sueño Ligero,pi_nominal,88,0.7,0.7361702128,0.7354166667
+Sueño Ligero,pi_nominal,89,0.4,0.6893617021,0.6833333333
+Sueño Ligero,pi_nominal,90,0.2,0.6829787234,0.6729166667
+Sueño Ligero,pi_nominal,91,0.7,0.7021276596,0.7020833333
+Sueño Ligero,pi_nominal,92,0.6,0.7191489362,0.7166666667
+Sueño Ligero,pi_nominal,93,0.8,0.7,0.7020833333
+Sueño Ligero,pi_nominal,94,0.7,0.7531914894,0.7520833333
+Sueño Ligero,pi_nominal,95,1,0.6829787234,0.6895833333
+Sueño Ligero,pi_nominal,96,0.7,0.685106383,0.6854166667
+Sueño Ligero,pi_nominal,97,0.6,0.6765957447,0.675
+Sueño Ligero,pi_nominal,98,0.9,0.6510638298,0.65625
+Sueño Ligero,pi_nominal,99,0.5,0.7127659574,0.7083333333
+Sueño Ligero,pi_uniforme,0,0.8,0.7127659574,0.7145833333
+Sueño Ligero,pi_uniforme,1,0.8,0.7319148936,0.7333333333
+Sueño Ligero,pi_uniforme,2,0.6,0.6808510638,0.6791666667
+Sueño Ligero,pi_uniforme,3,0.5,0.7340425532,0.7291666667
+Sueño Ligero,pi_uniforme,4,0.7,0.7063829787,0.70625
+Sueño Ligero,pi_uniforme,5,0.9,0.6957446809,0.7
+Sueño Ligero,pi_uniforme,6,0.8,0.7468085106,0.7479166667
+Sueño Ligero,pi_uniforme,7,0.5,0.6936170213,0.6895833333
+Sueño Ligero,pi_uniforme,8,0.9,0.6978723404,0.7020833333
+Sueño Ligero,pi_uniforme,9,0.6,0.7021276596,0.7
+Sueño Ligero,pi_uniforme,10,0.8,0.7489361702,0.75
+Sueño Ligero,pi_uniforme,11,0.9,0.7170212766,0.7208333333
+Sueño Ligero,pi_uniforme,12,0.5,0.7063829787,0.7020833333
+Sueño Ligero,pi_uniforme,13,0.5,0.7234042553,0.71875
+Sueño Ligero,pi_uniforme,14,0.9,0.7212765957,0.725
+Sueño Ligero,pi_uniforme,15,0.6,0.7127659574,0.7104166667
+Sueño Ligero,pi_uniforme,16,0.6,0.7191489362,0.7166666667
+Sueño Ligero,pi_uniforme,17,0.5,0.7659574468,0.7604166667
+Sueño Ligero,pi_uniforme,18,0.7,0.6808510638,0.68125
+Sueño Ligero,pi_uniforme,19,0.4,0.7063829787,0.7
+Sueño Ligero,pi_uniforme,20,0.7,0.7170212766,0.7166666667
+Sueño Ligero,pi_uniforme,21,0.8,0.7234042553,0.725
+Sueño Ligero,pi_uniforme,22,0.4,0.7446808511,0.7375
+Sueño Ligero,pi_uniforme,23,0.5,0.7234042553,0.71875
+Sueño Ligero,pi_uniforme,24,0.2,0.6872340426,0.6770833333
+Sueño Ligero,pi_uniforme,25,0.4,0.6872340426,0.68125
+Sueño Ligero,pi_uniforme,26,0.7,0.7425531915,0.7416666667
+Sueño Ligero,pi_uniforme,27,0.4,0.7638297872,0.75625
+Sueño Ligero,pi_uniforme,28,0.7,0.6978723404,0.6979166667
+Sueño Ligero,pi_uniforme,29,0.8,0.6659574468,0.66875
+Sueño Ligero,pi_uniforme,30,0.9,0.7021276596,0.70625
+Sueño Ligero,pi_uniforme,31,0.7,0.7595744681,0.7583333333
+Sueño Ligero,pi_uniforme,32,0.6,0.7085106383,0.70625
+Sueño Ligero,pi_uniforme,33,0.8,0.7340425532,0.7354166667
+Sueño Ligero,pi_uniforme,34,0.4,0.7127659574,0.70625
+Sueño Ligero,pi_uniforme,35,0.8,0.7638297872,0.7645833333
+Sueño Ligero,pi_uniforme,36,0.9,0.7382978723,0.7416666667
+Sueño Ligero,pi_uniforme,37,0.7,0.6957446809,0.6958333333
+Sueño Ligero,pi_uniforme,38,0.8,0.7510638298,0.7520833333
+Sueño Ligero,pi_uniforme,39,0.6,0.6680851064,0.6666666667
+Sueño Ligero,pi_uniforme,40,0.6,0.7425531915,0.7395833333
+Sueño Ligero,pi_uniforme,41,0.4,0.7617021277,0.7541666667
+Sueño Ligero,pi_uniforme,42,1,0.729787234,0.7354166667
+Sueño Ligero,pi_uniforme,43,0.6,0.729787234,0.7270833333
+Sueño Ligero,pi_uniforme,44,0.5,0.7085106383,0.7041666667
+Sueño Ligero,pi_uniforme,45,0.7,0.7234042553,0.7229166667
+Sueño Ligero,pi_uniforme,46,0.6,0.685106383,0.6833333333
+Sueño Ligero,pi_uniforme,47,0.5,0.7255319149,0.7208333333
+Sueño Ligero,pi_uniforme,48,0.8,0.6829787234,0.6854166667
+Sueño Ligero,pi_uniforme,49,0.6,0.7,0.6979166667
+Sueño Ligero,pi_uniforme,50,0.7,0.7255319149,0.725
+Sueño Ligero,pi_uniforme,51,0.9,0.6893617021,0.69375
+Sueño Ligero,pi_uniforme,52,0.9,0.670212766,0.675
+Sueño Ligero,pi_uniforme,53,0.8,0.7255319149,0.7270833333
+Sueño Ligero,pi_uniforme,54,0.6,0.7319148936,0.7291666667
+Sueño Ligero,pi_uniforme,55,0.6,0.7510638298,0.7479166667
+Sueño Ligero,pi_uniforme,56,0.9,0.729787234,0.7333333333
+Sueño Ligero,pi_uniforme,57,0.9,0.6957446809,0.7
+Sueño Ligero,pi_uniforme,58,0.5,0.7425531915,0.7375
+Sueño Ligero,pi_uniforme,59,0.6,0.7617021277,0.7583333333
+Sueño Ligero,pi_uniforme,60,0.5,0.6680851064,0.6645833333
+Sueño Ligero,pi_uniforme,61,0.7,0.7021276596,0.7020833333
+Sueño Ligero,pi_uniforme,62,0.9,0.7191489362,0.7229166667
+Sueño Ligero,pi_uniforme,63,0.6,0.7042553191,0.7020833333
+Sueño Ligero,pi_uniforme,64,0.9,0.6872340426,0.6916666667
+Sueño Ligero,pi_uniforme,65,0.5,0.7212765957,0.7166666667
+Sueño Ligero,pi_uniforme,66,0.9,0.7787234043,0.78125
+Sueño Ligero,pi_uniforme,67,0.4,0.7468085106,0.7395833333
+Sueño Ligero,pi_uniforme,68,0.5,0.6595744681,0.65625
+Sueño Ligero,pi_uniforme,69,0.5,0.6872340426,0.6833333333
+Sueño Ligero,pi_uniforme,70,0.5,0.6893617021,0.6854166667
+Sueño Ligero,pi_uniforme,71,0.9,0.6744680851,0.6791666667
+Sueño Ligero,pi_uniforme,72,0.6,0.6978723404,0.6958333333
+Sueño Ligero,pi_uniforme,73,0.9,0.714893617,0.71875
+Sueño Ligero,pi_uniforme,74,0.8,0.6936170213,0.6958333333
+Sueño Ligero,pi_uniforme,75,0.6,0.6914893617,0.6895833333
+Sueño Ligero,pi_uniforme,76,1,0.6978723404,0.7041666667
+Sueño Ligero,pi_uniforme,77,0.9,0.7617021277,0.7645833333
+Sueño Ligero,pi_uniforme,78,0.6,0.6829787234,0.68125
+Sueño Ligero,pi_uniforme,79,0.9,0.6957446809,0.7
+Sueño Ligero,pi_uniforme,80,0.3,0.6787234043,0.6708333333
+Sueño Ligero,pi_uniforme,81,0.5,0.7276595745,0.7229166667
+Sueño Ligero,pi_uniforme,82,0.9,0.7106382979,0.7145833333
+Sueño Ligero,pi_uniforme,83,0.7,0.7361702128,0.7354166667
+Sueño Ligero,pi_uniforme,84,0.4,0.6893617021,0.6833333333
+Sueño Ligero,pi_uniforme,85,0.9,0.6872340426,0.6916666667
+Sueño Ligero,pi_uniforme,86,0.9,0.7234042553,0.7270833333
+Sueño Ligero,pi_uniforme,87,0.8,0.6936170213,0.6958333333
+Sueño Ligero,pi_uniforme,88,0.7,0.7361702128,0.7354166667
+Sueño Ligero,pi_uniforme,89,0.4,0.6893617021,0.6833333333
+Sueño Ligero,pi_uniforme,90,0.2,0.6829787234,0.6729166667
+Sueño Ligero,pi_uniforme,91,0.9,0.7042553191,0.7083333333
+Sueño Ligero,pi_uniforme,92,0.6,0.7191489362,0.7166666667
+Sueño Ligero,pi_uniforme,93,0.8,0.7,0.7020833333
+Sueño Ligero,pi_uniforme,94,0.7,0.7531914894,0.7520833333
+Sueño Ligero,pi_uniforme,95,1,0.6829787234,0.6895833333
+Sueño Ligero,pi_uniforme,96,0.7,0.685106383,0.6854166667
+Sueño Ligero,pi_uniforme,97,0.6,0.6765957447,0.675
+Sueño Ligero,pi_uniforme,98,0.9,0.6510638298,0.65625
+Sueño Ligero,pi_uniforme,99,0.5,0.7127659574,0.7083333333
+Sueño Ligero,pi_estacionaria,0,0.8,0.7127659574,0.7145833333
+Sueño Ligero,pi_estacionaria,1,0.8,0.7319148936,0.7333333333
+Sueño Ligero,pi_estacionaria,2,0.6,0.6808510638,0.6791666667
+Sueño Ligero,pi_estacionaria,3,0.6,0.7340425532,0.73125
+Sueño Ligero,pi_estacionaria,4,0.7,0.7063829787,0.70625
+Sueño Ligero,pi_estacionaria,5,0.9,0.6957446809,0.7
+Sueño Ligero,pi_estacionaria,6,0.8,0.7468085106,0.7479166667
+Sueño Ligero,pi_estacionaria,7,0.5,0.6936170213,0.6895833333
+Sueño Ligero,pi_estacionaria,8,0.9,0.6978723404,0.7020833333
+Sueño Ligero,pi_estacionaria,9,0.6,0.7021276596,0.7
+Sueño Ligero,pi_estacionaria,10,0.8,0.7489361702,0.75
+Sueño Ligero,pi_estacionaria,11,0.9,0.7170212766,0.7208333333
+Sueño Ligero,pi_estacionaria,12,0.5,0.7063829787,0.7020833333
+Sueño Ligero,pi_estacionaria,13,0.5,0.7234042553,0.71875
+Sueño Ligero,pi_estacionaria,14,0.9,0.7212765957,0.725
+Sueño Ligero,pi_estacionaria,15,0.6,0.7127659574,0.7104166667
+Sueño Ligero,pi_estacionaria,16,0.8,0.7191489362,0.7208333333
+Sueño Ligero,pi_estacionaria,17,0.5,0.7659574468,0.7604166667
+Sueño Ligero,pi_estacionaria,18,0.7,0.6808510638,0.68125
+Sueño Ligero,pi_estacionaria,19,0.4,0.7063829787,0.7
+Sueño Ligero,pi_estacionaria,20,0.7,0.7170212766,0.7166666667
+Sueño Ligero,pi_estacionaria,21,0.8,0.7234042553,0.725
+Sueño Ligero,pi_estacionaria,22,0.4,0.7446808511,0.7375
+Sueño Ligero,pi_estacionaria,23,0.5,0.7234042553,0.71875
+Sueño Ligero,pi_estacionaria,24,0.2,0.6872340426,0.6770833333
+Sueño Ligero,pi_estacionaria,25,0.4,0.6872340426,0.68125
+Sueño Ligero,pi_estacionaria,26,0.7,0.7425531915,0.7416666667
+Sueño Ligero,pi_estacionaria,27,0.4,0.7638297872,0.75625
+Sueño Ligero,pi_estacionaria,28,0.7,0.6978723404,0.6979166667
+Sueño Ligero,pi_estacionaria,29,0.8,0.6659574468,0.66875
+Sueño Ligero,pi_estacionaria,30,0.9,0.7021276596,0.70625
+Sueño Ligero,pi_estacionaria,31,0.7,0.7595744681,0.7583333333
+Sueño Ligero,pi_estacionaria,32,0.6,0.7085106383,0.70625
+Sueño Ligero,pi_estacionaria,33,0.8,0.7340425532,0.7354166667
+Sueño Ligero,pi_estacionaria,34,0.4,0.7127659574,0.70625
+Sueño Ligero,pi_estacionaria,35,0.8,0.7638297872,0.7645833333
+Sueño Ligero,pi_estacionaria,36,0.9,0.7382978723,0.7416666667
+Sueño Ligero,pi_estacionaria,37,0.7,0.6957446809,0.6958333333
+Sueño Ligero,pi_estacionaria,38,0.8,0.7510638298,0.7520833333
+Sueño Ligero,pi_estacionaria,39,0.6,0.6680851064,0.6666666667
+Sueño Ligero,pi_estacionaria,40,0.6,0.7425531915,0.7395833333
+Sueño Ligero,pi_estacionaria,41,0.4,0.7617021277,0.7541666667
+Sueño Ligero,pi_estacionaria,42,1,0.729787234,0.7354166667
+Sueño Ligero,pi_estacionaria,43,0.6,0.729787234,0.7270833333
+Sueño Ligero,pi_estacionaria,44,0.5,0.7085106383,0.7041666667
+Sueño Ligero,pi_estacionaria,45,0.7,0.7234042553,0.7229166667
+Sueño Ligero,pi_estacionaria,46,0.6,0.685106383,0.6833333333
+Sueño Ligero,pi_estacionaria,47,0.6,0.7255319149,0.7229166667
+Sueño Ligero,pi_estacionaria,48,0.8,0.6829787234,0.6854166667
+Sueño Ligero,pi_estacionaria,49,0.6,0.7,0.6979166667
+Sueño Ligero,pi_estacionaria,50,0.7,0.7255319149,0.725
+Sueño Ligero,pi_estacionaria,51,0.9,0.6893617021,0.69375
+Sueño Ligero,pi_estacionaria,52,0.9,0.670212766,0.675
+Sueño Ligero,pi_estacionaria,53,0.8,0.7255319149,0.7270833333
+Sueño Ligero,pi_estacionaria,54,0.6,0.7319148936,0.7291666667
+Sueño Ligero,pi_estacionaria,55,0.6,0.7510638298,0.7479166667
+Sueño Ligero,pi_estacionaria,56,0.9,0.729787234,0.7333333333
+Sueño Ligero,pi_estacionaria,57,0.9,0.6957446809,0.7
+Sueño Ligero,pi_estacionaria,58,0.5,0.7425531915,0.7375
+Sueño Ligero,pi_estacionaria,59,0.6,0.7617021277,0.7583333333
+Sueño Ligero,pi_estacionaria,60,0.5,0.6680851064,0.6645833333
+Sueño Ligero,pi_estacionaria,61,0.8,0.7021276596,0.7041666667
+Sueño Ligero,pi_estacionaria,62,0.9,0.7191489362,0.7229166667
+Sueño Ligero,pi_estacionaria,63,0.6,0.7042553191,0.7020833333
+Sueño Ligero,pi_estacionaria,64,0.9,0.6872340426,0.6916666667
+Sueño Ligero,pi_estacionaria,65,0.5,0.7212765957,0.7166666667
+Sueño Ligero,pi_estacionaria,66,0.9,0.7787234043,0.78125
+Sueño Ligero,pi_estacionaria,67,0.4,0.7468085106,0.7395833333
+Sueño Ligero,pi_estacionaria,68,0.5,0.6595744681,0.65625
+Sueño Ligero,pi_estacionaria,69,0.5,0.6872340426,0.6833333333
+Sueño Ligero,pi_estacionaria,70,0.5,0.6893617021,0.6854166667
+Sueño Ligero,pi_estacionaria,71,0.9,0.6744680851,0.6791666667
+Sueño Ligero,pi_estacionaria,72,0.6,0.6978723404,0.6958333333
+Sueño Ligero,pi_estacionaria,73,0.8,0.714893617,0.7166666667
+Sueño Ligero,pi_estacionaria,74,0.8,0.6936170213,0.6958333333
+Sueño Ligero,pi_estacionaria,75,0.6,0.6914893617,0.6895833333
+Sueño Ligero,pi_estacionaria,76,1,0.6978723404,0.7041666667
+Sueño Ligero,pi_estacionaria,77,0.9,0.7617021277,0.7645833333
+Sueño Ligero,pi_estacionaria,78,0.6,0.6829787234,0.68125
+Sueño Ligero,pi_estacionaria,79,0.9,0.6957446809,0.7
+Sueño Ligero,pi_estacionaria,80,0.3,0.6787234043,0.6708333333
+Sueño Ligero,pi_estacionaria,81,0.5,0.7276595745,0.7229166667
+Sueño Ligero,pi_estacionaria,82,0.9,0.7106382979,0.7145833333
+Sueño Ligero,pi_estacionaria,83,0.7,0.7361702128,0.7354166667
+Sueño Ligero,pi_estacionaria,84,0.4,0.6893617021,0.6833333333
+Sueño Ligero,pi_estacionaria,85,0.9,0.6872340426,0.6916666667
+Sueño Ligero,pi_estacionaria,86,0.9,0.7234042553,0.7270833333
+Sueño Ligero,pi_estacionaria,87,0.8,0.6936170213,0.6958333333
+Sueño Ligero,pi_estacionaria,88,0.7,0.7361702128,0.7354166667
+Sueño Ligero,pi_estacionaria,89,0.4,0.6893617021,0.6833333333
+Sueño Ligero,pi_estacionaria,90,0.3,0.6829787234,0.675
+Sueño Ligero,pi_estacionaria,91,0.9,0.7021276596,0.70625
+Sueño Ligero,pi_estacionaria,92,0.6,0.7191489362,0.7166666667
+Sueño Ligero,pi_estacionaria,93,0.8,0.7,0.7020833333
+Sueño Ligero,pi_estacionaria,94,0.7,0.7531914894,0.7520833333
+Sueño Ligero,pi_estacionaria,95,1,0.6829787234,0.6895833333
+Sueño Ligero,pi_estacionaria,96,0.7,0.685106383,0.6854166667
+Sueño Ligero,pi_estacionaria,97,0.6,0.6765957447,0.675
+Sueño Ligero,pi_estacionaria,98,0.9,0.6510638298,0.65625
+Sueño Ligero,pi_estacionaria,99,0.5,0.7127659574,0.7083333333
+Sueño Profundo,pi_nominal,0,0.7,0.6744680851,0.675
+Sueño Profundo,pi_nominal,1,0.8,0.6893617021,0.6916666667
+Sueño Profundo,pi_nominal,2,1,0.7212765957,0.7270833333
+Sueño Profundo,pi_nominal,3,0.2,0.6787234043,0.66875
+Sueño Profundo,pi_nominal,4,1,0.714893617,0.7208333333
+Sueño Profundo,pi_nominal,5,0.7,0.7212765957,0.7208333333
+Sueño Profundo,pi_nominal,6,0.7,0.7,0.7
+Sueño Profundo,pi_nominal,7,0.6,0.6787234043,0.6770833333
+Sueño Profundo,pi_nominal,8,0.9,0.6468085106,0.6520833333
+Sueño Profundo,pi_nominal,9,0.9,0.6936170213,0.6979166667
+Sueño Profundo,pi_nominal,10,0.8,0.7595744681,0.7604166667
+Sueño Profundo,pi_nominal,11,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_nominal,12,0.9,0.6872340426,0.6916666667
+Sueño Profundo,pi_nominal,13,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_nominal,14,0.8,0.714893617,0.7166666667
+Sueño Profundo,pi_nominal,15,0.7,0.7340425532,0.7333333333
+Sueño Profundo,pi_nominal,16,0.4,0.6893617021,0.6833333333
+Sueño Profundo,pi_nominal,17,0.7,0.7021276596,0.7020833333
+Sueño Profundo,pi_nominal,18,0.9,0.7574468085,0.7604166667
+Sueño Profundo,pi_nominal,19,0.6,0.6914893617,0.6895833333
+Sueño Profundo,pi_nominal,20,0.9,0.7042553191,0.7083333333
+Sueño Profundo,pi_nominal,21,0.9,0.7276595745,0.73125
+Sueño Profundo,pi_nominal,22,0.7,0.7,0.7
+Sueño Profundo,pi_nominal,23,0.7,0.6872340426,0.6875
+Sueño Profundo,pi_nominal,24,0.5,0.729787234,0.725
+Sueño Profundo,pi_nominal,25,0.6,0.7127659574,0.7104166667
+Sueño Profundo,pi_nominal,26,0.8,0.7574468085,0.7583333333
+Sueño Profundo,pi_nominal,27,0.6,0.7510638298,0.7479166667
+Sueño Profundo,pi_nominal,28,0.7,0.7255319149,0.725
+Sueño Profundo,pi_nominal,29,0.6,0.7063829787,0.7041666667
+Sueño Profundo,pi_nominal,30,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_nominal,31,0.7,0.7063829787,0.70625
+Sueño Profundo,pi_nominal,32,0.7,0.7042553191,0.7041666667
+Sueño Profundo,pi_nominal,33,0.9,0.7553191489,0.7583333333
+Sueño Profundo,pi_nominal,34,0.6,0.7361702128,0.7333333333
+Sueño Profundo,pi_nominal,35,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_nominal,36,0.6,0.7276595745,0.725
+Sueño Profundo,pi_nominal,37,0.7,0.7085106383,0.7083333333
+Sueño Profundo,pi_nominal,38,0.7,0.7063829787,0.70625
+Sueño Profundo,pi_nominal,39,0.6,0.7021276596,0.7
+Sueño Profundo,pi_nominal,40,0.6,0.7191489362,0.7166666667
+Sueño Profundo,pi_nominal,41,0.9,0.7425531915,0.7458333333
+Sueño Profundo,pi_nominal,42,0.8,0.7425531915,0.74375
+Sueño Profundo,pi_nominal,43,0.9,0.6957446809,0.7
+Sueño Profundo,pi_nominal,44,1,0.7021276596,0.7083333333
+Sueño Profundo,pi_nominal,45,0.7,0.7744680851,0.7729166667
+Sueño Profundo,pi_nominal,46,0.8,0.714893617,0.7166666667
+Sueño Profundo,pi_nominal,47,0.6,0.685106383,0.6833333333
+Sueño Profundo,pi_nominal,48,0.8,0.6978723404,0.7
+Sueño Profundo,pi_nominal,49,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_nominal,50,0.7,0.7361702128,0.7354166667
+Sueño Profundo,pi_nominal,51,0.8,0.7382978723,0.7395833333
+Sueño Profundo,pi_nominal,52,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_nominal,53,0.9,0.7021276596,0.70625
+Sueño Profundo,pi_nominal,54,0.6,0.6659574468,0.6645833333
+Sueño Profundo,pi_nominal,55,0.8,0.7574468085,0.7583333333
+Sueño Profundo,pi_nominal,56,0.7,0.6936170213,0.69375
+Sueño Profundo,pi_nominal,57,1,0.7085106383,0.7145833333
+Sueño Profundo,pi_nominal,58,0.7,0.7106382979,0.7104166667
+Sueño Profundo,pi_nominal,59,0.8,0.729787234,0.73125
+Sueño Profundo,pi_nominal,60,0.9,0.7021276596,0.70625
+Sueño Profundo,pi_nominal,61,0.9,0.6829787234,0.6875
+Sueño Profundo,pi_nominal,62,0.8,0.7191489362,0.7208333333
+Sueño Profundo,pi_nominal,63,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_nominal,64,0.4,0.7191489362,0.7125
+Sueño Profundo,pi_nominal,65,0.6,0.7382978723,0.7354166667
+Sueño Profundo,pi_nominal,66,0.4,0.6893617021,0.6833333333
+Sueño Profundo,pi_nominal,67,0.8,0.7234042553,0.725
+Sueño Profundo,pi_nominal,68,0.5,0.7361702128,0.73125
+Sueño Profundo,pi_nominal,69,0.5,0.7085106383,0.7041666667
+Sueño Profundo,pi_nominal,70,0.9,0.7361702128,0.7395833333
+Sueño Profundo,pi_nominal,71,0.7,0.7680851064,0.7666666667
+Sueño Profundo,pi_nominal,72,0.7,0.7255319149,0.725
+Sueño Profundo,pi_nominal,73,0.7,0.7212765957,0.7208333333
+Sueño Profundo,pi_nominal,74,0.9,0.714893617,0.71875
+Sueño Profundo,pi_nominal,75,0.8,0.7127659574,0.7145833333
+Sueño Profundo,pi_nominal,76,0.6,0.714893617,0.7125
+Sueño Profundo,pi_nominal,77,0.7,0.6893617021,0.6895833333
+Sueño Profundo,pi_nominal,78,1,0.6765957447,0.6833333333
+Sueño Profundo,pi_nominal,79,0.4,0.7042553191,0.6979166667
+Sueño Profundo,pi_nominal,80,0.4,0.714893617,0.7083333333
+Sueño Profundo,pi_nominal,81,0.4,0.7106382979,0.7041666667
+Sueño Profundo,pi_nominal,82,0.8,0.7446808511,0.7458333333
+Sueño Profundo,pi_nominal,83,0.9,0.6787234043,0.6833333333
+Sueño Profundo,pi_nominal,84,0.8,0.7127659574,0.7145833333
+Sueño Profundo,pi_nominal,85,0.6,0.7042553191,0.7020833333
+Sueño Profundo,pi_nominal,86,0.6,0.6595744681,0.6583333333
+Sueño Profundo,pi_nominal,87,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_nominal,88,0.7,0.7574468085,0.75625
+Sueño Profundo,pi_nominal,89,0.4,0.7276595745,0.7208333333
+Sueño Profundo,pi_nominal,90,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_nominal,91,0.2,0.7212765957,0.7104166667
+Sueño Profundo,pi_nominal,92,0.5,0.7170212766,0.7125
+Sueño Profundo,pi_nominal,93,0.8,0.670212766,0.6729166667
+Sueño Profundo,pi_nominal,94,0.7,0.7574468085,0.75625
+Sueño Profundo,pi_nominal,95,0.6,0.7553191489,0.7520833333
+Sueño Profundo,pi_nominal,96,0.8,0.6978723404,0.7
+Sueño Profundo,pi_nominal,97,0.7,0.6872340426,0.6875
+Sueño Profundo,pi_nominal,98,0.7,0.6723404255,0.6729166667
+Sueño Profundo,pi_nominal,99,0.7,0.6914893617,0.6916666667
+Sueño Profundo,pi_uniforme,0,0.7,0.6744680851,0.675
+Sueño Profundo,pi_uniforme,1,0.8,0.6893617021,0.6916666667
+Sueño Profundo,pi_uniforme,2,1,0.7212765957,0.7270833333
+Sueño Profundo,pi_uniforme,3,0.2,0.6787234043,0.66875
+Sueño Profundo,pi_uniforme,4,1,0.714893617,0.7208333333
+Sueño Profundo,pi_uniforme,5,0.8,0.7212765957,0.7229166667
+Sueño Profundo,pi_uniforme,6,0.8,0.7,0.7020833333
+Sueño Profundo,pi_uniforme,7,0.6,0.6787234043,0.6770833333
+Sueño Profundo,pi_uniforme,8,0.9,0.6468085106,0.6520833333
+Sueño Profundo,pi_uniforme,9,0.9,0.6936170213,0.6979166667
+Sueño Profundo,pi_uniforme,10,0.8,0.7595744681,0.7604166667
+Sueño Profundo,pi_uniforme,11,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_uniforme,12,0.9,0.6872340426,0.6916666667
+Sueño Profundo,pi_uniforme,13,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_uniforme,14,0.8,0.714893617,0.7166666667
+Sueño Profundo,pi_uniforme,15,0.8,0.7340425532,0.7354166667
+Sueño Profundo,pi_uniforme,16,0.4,0.6893617021,0.6833333333
+Sueño Profundo,pi_uniforme,17,0.7,0.7021276596,0.7020833333
+Sueño Profundo,pi_uniforme,18,0.9,0.7574468085,0.7604166667
+Sueño Profundo,pi_uniforme,19,0.3,0.6914893617,0.6833333333
+Sueño Profundo,pi_uniforme,20,0.9,0.7042553191,0.7083333333
+Sueño Profundo,pi_uniforme,21,0.9,0.7276595745,0.73125
+Sueño Profundo,pi_uniforme,22,0.7,0.7,0.7
+Sueño Profundo,pi_uniforme,23,0.7,0.6872340426,0.6875
+Sueño Profundo,pi_uniforme,24,0.5,0.729787234,0.725
+Sueño Profundo,pi_uniforme,25,0.6,0.7127659574,0.7104166667
+Sueño Profundo,pi_uniforme,26,0.8,0.7574468085,0.7583333333
+Sueño Profundo,pi_uniforme,27,0.6,0.7510638298,0.7479166667
+Sueño Profundo,pi_uniforme,28,0.7,0.7255319149,0.725
+Sueño Profundo,pi_uniforme,29,0.6,0.7063829787,0.7041666667
+Sueño Profundo,pi_uniforme,30,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_uniforme,31,0.7,0.7063829787,0.70625
+Sueño Profundo,pi_uniforme,32,0.8,0.7042553191,0.70625
+Sueño Profundo,pi_uniforme,33,0.9,0.7553191489,0.7583333333
+Sueño Profundo,pi_uniforme,34,0.6,0.7361702128,0.7333333333
+Sueño Profundo,pi_uniforme,35,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_uniforme,36,0.8,0.7276595745,0.7291666667
+Sueño Profundo,pi_uniforme,37,0.7,0.7085106383,0.7083333333
+Sueño Profundo,pi_uniforme,38,0.7,0.7063829787,0.70625
+Sueño Profundo,pi_uniforme,39,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_uniforme,40,0.6,0.7191489362,0.7166666667
+Sueño Profundo,pi_uniforme,41,0.9,0.7425531915,0.7458333333
+Sueño Profundo,pi_uniforme,42,0.8,0.7425531915,0.74375
+Sueño Profundo,pi_uniforme,43,0.9,0.6957446809,0.7
+Sueño Profundo,pi_uniforme,44,1,0.7021276596,0.7083333333
+Sueño Profundo,pi_uniforme,45,0.8,0.7744680851,0.775
+Sueño Profundo,pi_uniforme,46,0.7,0.714893617,0.7145833333
+Sueño Profundo,pi_uniforme,47,0.6,0.685106383,0.6833333333
+Sueño Profundo,pi_uniforme,48,0.8,0.6978723404,0.7
+Sueño Profundo,pi_uniforme,49,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_uniforme,50,0.7,0.7361702128,0.7354166667
+Sueño Profundo,pi_uniforme,51,0.8,0.7382978723,0.7395833333
+Sueño Profundo,pi_uniforme,52,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_uniforme,53,0.9,0.7021276596,0.70625
+Sueño Profundo,pi_uniforme,54,0.6,0.6659574468,0.6645833333
+Sueño Profundo,pi_uniforme,55,0.8,0.7574468085,0.7583333333
+Sueño Profundo,pi_uniforme,56,0.7,0.6936170213,0.69375
+Sueño Profundo,pi_uniforme,57,1,0.7085106383,0.7145833333
+Sueño Profundo,pi_uniforme,58,0.7,0.7106382979,0.7104166667
+Sueño Profundo,pi_uniforme,59,0.9,0.729787234,0.7333333333
+Sueño Profundo,pi_uniforme,60,0.9,0.7021276596,0.70625
+Sueño Profundo,pi_uniforme,61,0.9,0.6829787234,0.6875
+Sueño Profundo,pi_uniforme,62,0.8,0.7191489362,0.7208333333
+Sueño Profundo,pi_uniforme,63,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_uniforme,64,0.4,0.7191489362,0.7125
+Sueño Profundo,pi_uniforme,65,0.6,0.7382978723,0.7354166667
+Sueño Profundo,pi_uniforme,66,0.5,0.6893617021,0.6854166667
+Sueño Profundo,pi_uniforme,67,0.8,0.7234042553,0.725
+Sueño Profundo,pi_uniforme,68,0.5,0.7361702128,0.73125
+Sueño Profundo,pi_uniforme,69,0.5,0.7085106383,0.7041666667
+Sueño Profundo,pi_uniforme,70,0.9,0.7361702128,0.7395833333
+Sueño Profundo,pi_uniforme,71,0.8,0.7680851064,0.76875
+Sueño Profundo,pi_uniforme,72,0.7,0.7255319149,0.725
+Sueño Profundo,pi_uniforme,73,0.7,0.7212765957,0.7208333333
+Sueño Profundo,pi_uniforme,74,0.9,0.714893617,0.71875
+Sueño Profundo,pi_uniforme,75,0.8,0.7127659574,0.7145833333
+Sueño Profundo,pi_uniforme,76,0.6,0.714893617,0.7125
+Sueño Profundo,pi_uniforme,77,0.7,0.6893617021,0.6895833333
+Sueño Profundo,pi_uniforme,78,1,0.6765957447,0.6833333333
+Sueño Profundo,pi_uniforme,79,0.4,0.7042553191,0.6979166667
+Sueño Profundo,pi_uniforme,80,0.3,0.714893617,0.70625
+Sueño Profundo,pi_uniforme,81,0.4,0.7106382979,0.7041666667
+Sueño Profundo,pi_uniforme,82,0.9,0.7446808511,0.7479166667
+Sueño Profundo,pi_uniforme,83,0.9,0.6787234043,0.6833333333
+Sueño Profundo,pi_uniforme,84,0.8,0.7127659574,0.7145833333
+Sueño Profundo,pi_uniforme,85,0.6,0.7042553191,0.7020833333
+Sueño Profundo,pi_uniforme,86,0.7,0.6595744681,0.6604166667
+Sueño Profundo,pi_uniforme,87,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_uniforme,88,0.7,0.7574468085,0.75625
+Sueño Profundo,pi_uniforme,89,0.4,0.7276595745,0.7208333333
+Sueño Profundo,pi_uniforme,90,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_uniforme,91,0.2,0.7212765957,0.7104166667
+Sueño Profundo,pi_uniforme,92,0.5,0.7170212766,0.7125
+Sueño Profundo,pi_uniforme,93,0.8,0.670212766,0.6729166667
+Sueño Profundo,pi_uniforme,94,0.7,0.7574468085,0.75625
+Sueño Profundo,pi_uniforme,95,0.6,0.7553191489,0.7520833333
+Sueño Profundo,pi_uniforme,96,0.8,0.6978723404,0.7
+Sueño Profundo,pi_uniforme,97,0.7,0.6872340426,0.6875
+Sueño Profundo,pi_uniforme,98,0.7,0.6723404255,0.6729166667
+Sueño Profundo,pi_uniforme,99,0.7,0.6914893617,0.6916666667
+Sueño Profundo,pi_estacionaria,0,0.7,0.6744680851,0.675
+Sueño Profundo,pi_estacionaria,1,0.8,0.6893617021,0.6916666667
+Sueño Profundo,pi_estacionaria,2,1,0.7212765957,0.7270833333
+Sueño Profundo,pi_estacionaria,3,0.2,0.6787234043,0.66875
+Sueño Profundo,pi_estacionaria,4,1,0.714893617,0.7208333333
+Sueño Profundo,pi_estacionaria,5,0.8,0.7212765957,0.7229166667
+Sueño Profundo,pi_estacionaria,6,0.8,0.7,0.7020833333
+Sueño Profundo,pi_estacionaria,7,0.6,0.6787234043,0.6770833333
+Sueño Profundo,pi_estacionaria,8,0.9,0.6468085106,0.6520833333
+Sueño Profundo,pi_estacionaria,9,0.9,0.6936170213,0.6979166667
+Sueño Profundo,pi_estacionaria,10,0.8,0.7595744681,0.7604166667
+Sueño Profundo,pi_estacionaria,11,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_estacionaria,12,0.9,0.6872340426,0.6916666667
+Sueño Profundo,pi_estacionaria,13,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_estacionaria,14,0.8,0.714893617,0.7166666667
+Sueño Profundo,pi_estacionaria,15,0.8,0.7340425532,0.7354166667
+Sueño Profundo,pi_estacionaria,16,0.4,0.6893617021,0.6833333333
+Sueño Profundo,pi_estacionaria,17,0.7,0.7021276596,0.7020833333
+Sueño Profundo,pi_estacionaria,18,0.9,0.7574468085,0.7604166667
+Sueño Profundo,pi_estacionaria,19,0.3,0.6914893617,0.6833333333
+Sueño Profundo,pi_estacionaria,20,0.9,0.7042553191,0.7083333333
+Sueño Profundo,pi_estacionaria,21,0.9,0.7276595745,0.73125
+Sueño Profundo,pi_estacionaria,22,0.7,0.7,0.7
+Sueño Profundo,pi_estacionaria,23,0.7,0.6872340426,0.6875
+Sueño Profundo,pi_estacionaria,24,0.5,0.729787234,0.725
+Sueño Profundo,pi_estacionaria,25,0.6,0.7127659574,0.7104166667
+Sueño Profundo,pi_estacionaria,26,0.8,0.7574468085,0.7583333333
+Sueño Profundo,pi_estacionaria,27,0.6,0.7510638298,0.7479166667
+Sueño Profundo,pi_estacionaria,28,0.7,0.7255319149,0.725
+Sueño Profundo,pi_estacionaria,29,0.6,0.7063829787,0.7041666667
+Sueño Profundo,pi_estacionaria,30,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_estacionaria,31,0.7,0.7063829787,0.70625
+Sueño Profundo,pi_estacionaria,32,0.8,0.7042553191,0.70625
+Sueño Profundo,pi_estacionaria,33,0.9,0.7553191489,0.7583333333
+Sueño Profundo,pi_estacionaria,34,0.6,0.7361702128,0.7333333333
+Sueño Profundo,pi_estacionaria,35,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_estacionaria,36,0.8,0.7276595745,0.7291666667
+Sueño Profundo,pi_estacionaria,37,0.7,0.7085106383,0.7083333333
+Sueño Profundo,pi_estacionaria,38,0.7,0.7063829787,0.70625
+Sueño Profundo,pi_estacionaria,39,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_estacionaria,40,0.6,0.7191489362,0.7166666667
+Sueño Profundo,pi_estacionaria,41,0.9,0.7425531915,0.7458333333
+Sueño Profundo,pi_estacionaria,42,0.8,0.7425531915,0.74375
+Sueño Profundo,pi_estacionaria,43,0.9,0.6957446809,0.7
+Sueño Profundo,pi_estacionaria,44,1,0.7021276596,0.7083333333
+Sueño Profundo,pi_estacionaria,45,0.8,0.7744680851,0.775
+Sueño Profundo,pi_estacionaria,46,0.7,0.714893617,0.7145833333
+Sueño Profundo,pi_estacionaria,47,0.6,0.685106383,0.6833333333
+Sueño Profundo,pi_estacionaria,48,0.8,0.6978723404,0.7
+Sueño Profundo,pi_estacionaria,49,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_estacionaria,50,0.7,0.7361702128,0.7354166667
+Sueño Profundo,pi_estacionaria,51,0.8,0.7382978723,0.7395833333
+Sueño Profundo,pi_estacionaria,52,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_estacionaria,53,0.9,0.7021276596,0.70625
+Sueño Profundo,pi_estacionaria,54,0.6,0.6659574468,0.6645833333
+Sueño Profundo,pi_estacionaria,55,0.8,0.7574468085,0.7583333333
+Sueño Profundo,pi_estacionaria,56,0.7,0.6936170213,0.69375
+Sueño Profundo,pi_estacionaria,57,1,0.7085106383,0.7145833333
+Sueño Profundo,pi_estacionaria,58,0.7,0.7106382979,0.7104166667
+Sueño Profundo,pi_estacionaria,59,0.9,0.729787234,0.7333333333
+Sueño Profundo,pi_estacionaria,60,0.9,0.7021276596,0.70625
+Sueño Profundo,pi_estacionaria,61,0.9,0.6829787234,0.6875
+Sueño Profundo,pi_estacionaria,62,0.8,0.7191489362,0.7208333333
+Sueño Profundo,pi_estacionaria,63,0.8,0.7021276596,0.7041666667
+Sueño Profundo,pi_estacionaria,64,0.4,0.7191489362,0.7125
+Sueño Profundo,pi_estacionaria,65,0.6,0.7382978723,0.7354166667
+Sueño Profundo,pi_estacionaria,66,0.5,0.6893617021,0.6854166667
+Sueño Profundo,pi_estacionaria,67,0.8,0.7234042553,0.725
+Sueño Profundo,pi_estacionaria,68,0.5,0.7361702128,0.73125
+Sueño Profundo,pi_estacionaria,69,0.5,0.7085106383,0.7041666667
+Sueño Profundo,pi_estacionaria,70,0.9,0.7361702128,0.7395833333
+Sueño Profundo,pi_estacionaria,71,0.8,0.7680851064,0.76875
+Sueño Profundo,pi_estacionaria,72,0.7,0.7255319149,0.725
+Sueño Profundo,pi_estacionaria,73,0.7,0.7212765957,0.7208333333
+Sueño Profundo,pi_estacionaria,74,0.9,0.714893617,0.71875
+Sueño Profundo,pi_estacionaria,75,0.8,0.7127659574,0.7145833333
+Sueño Profundo,pi_estacionaria,76,0.6,0.714893617,0.7125
+Sueño Profundo,pi_estacionaria,77,0.7,0.6893617021,0.6895833333
+Sueño Profundo,pi_estacionaria,78,1,0.6765957447,0.6833333333
+Sueño Profundo,pi_estacionaria,79,0.4,0.7042553191,0.6979166667
+Sueño Profundo,pi_estacionaria,80,0.3,0.714893617,0.70625
+Sueño Profundo,pi_estacionaria,81,0.4,0.7106382979,0.7041666667
+Sueño Profundo,pi_estacionaria,82,0.9,0.7446808511,0.7479166667
+Sueño Profundo,pi_estacionaria,83,0.9,0.6787234043,0.6833333333
+Sueño Profundo,pi_estacionaria,84,0.8,0.7127659574,0.7145833333
+Sueño Profundo,pi_estacionaria,85,0.6,0.7042553191,0.7020833333
+Sueño Profundo,pi_estacionaria,86,0.7,0.6595744681,0.6604166667
+Sueño Profundo,pi_estacionaria,87,0.7,0.7234042553,0.7229166667
+Sueño Profundo,pi_estacionaria,88,0.7,0.7574468085,0.75625
+Sueño Profundo,pi_estacionaria,89,0.4,0.7276595745,0.7208333333
+Sueño Profundo,pi_estacionaria,90,0.9,0.7191489362,0.7229166667
+Sueño Profundo,pi_estacionaria,91,0.2,0.7212765957,0.7104166667
+Sueño Profundo,pi_estacionaria,92,0.5,0.7170212766,0.7125
+Sueño Profundo,pi_estacionaria,93,0.8,0.670212766,0.6729166667
+Sueño Profundo,pi_estacionaria,94,0.7,0.7574468085,0.75625
+Sueño Profundo,pi_estacionaria,95,0.6,0.7553191489,0.7520833333
+Sueño Profundo,pi_estacionaria,96,0.8,0.6978723404,0.7
+Sueño Profundo,pi_estacionaria,97,0.7,0.6872340426,0.6875
+Sueño Profundo,pi_estacionaria,98,0.7,0.6723404255,0.6729166667
+Sueño Profundo,pi_estacionaria,99,0.7,0.6914893617,0.6916666667
+REM,pi_nominal,0,0.5,0.7212765957,0.7166666667
+REM,pi_nominal,1,0.6,0.7021276596,0.7
+REM,pi_nominal,2,0.6,0.7191489362,0.7166666667
+REM,pi_nominal,3,1,0.7085106383,0.7145833333
+REM,pi_nominal,4,0.9,0.7255319149,0.7291666667
+REM,pi_nominal,5,0.6,0.7085106383,0.70625
+REM,pi_nominal,6,0.7,0.729787234,0.7291666667
+REM,pi_nominal,7,0.8,0.685106383,0.6875
+REM,pi_nominal,8,0.7,0.7574468085,0.75625
+REM,pi_nominal,9,1,0.7063829787,0.7125
+REM,pi_nominal,10,0.5,0.6936170213,0.6895833333
+REM,pi_nominal,11,0.8,0.670212766,0.6729166667
+REM,pi_nominal,12,0.6,0.6914893617,0.6895833333
+REM,pi_nominal,13,0.9,0.7340425532,0.7375
+REM,pi_nominal,14,0.5,0.6957446809,0.6916666667
+REM,pi_nominal,15,0.9,0.6680851064,0.6729166667
+REM,pi_nominal,16,0.6,0.7574468085,0.7541666667
+REM,pi_nominal,17,0.5,0.685106383,0.68125
+REM,pi_nominal,18,0.5,0.7085106383,0.7041666667
+REM,pi_nominal,19,0.8,0.7510638298,0.7520833333
+REM,pi_nominal,20,0.5,0.7276595745,0.7229166667
+REM,pi_nominal,21,0.5,0.7489361702,0.74375
+REM,pi_nominal,22,0.4,0.714893617,0.7083333333
+REM,pi_nominal,23,0.8,0.7170212766,0.71875
+REM,pi_nominal,24,0.9,0.6936170213,0.6979166667
+REM,pi_nominal,25,0.5,0.7255319149,0.7208333333
+REM,pi_nominal,26,0.9,0.7382978723,0.7416666667
+REM,pi_nominal,27,0.6,0.6914893617,0.6895833333
+REM,pi_nominal,28,0.7,0.7042553191,0.7041666667
+REM,pi_nominal,29,0.6,0.7234042553,0.7208333333
+REM,pi_nominal,30,1,0.7319148936,0.7375
+REM,pi_nominal,31,0.6,0.7085106383,0.70625
+REM,pi_nominal,32,0.7,0.6617021277,0.6625
+REM,pi_nominal,33,0.7,0.7127659574,0.7125
+REM,pi_nominal,34,0.3,0.7063829787,0.6979166667
+REM,pi_nominal,35,0.6,0.7361702128,0.7333333333
+REM,pi_nominal,36,1,0.7446808511,0.75
+REM,pi_nominal,37,0.8,0.7382978723,0.7395833333
+REM,pi_nominal,38,0.8,0.6978723404,0.7
+REM,pi_nominal,39,1,0.7106382979,0.7166666667
+REM,pi_nominal,40,1,0.6936170213,0.7
+REM,pi_nominal,41,0.8,0.6744680851,0.6770833333
+REM,pi_nominal,42,0.6,0.7340425532,0.73125
+REM,pi_nominal,43,0.6,0.7723404255,0.76875
+REM,pi_nominal,44,0.9,0.6957446809,0.7
+REM,pi_nominal,45,0.9,0.7170212766,0.7208333333
+REM,pi_nominal,46,0.9,0.7574468085,0.7604166667
+REM,pi_nominal,47,0.6,0.7255319149,0.7229166667
+REM,pi_nominal,48,0.8,0.7468085106,0.7479166667
+REM,pi_nominal,49,0.6,0.7595744681,0.75625
+REM,pi_nominal,50,0.9,0.6574468085,0.6625
+REM,pi_nominal,51,0.8,0.7234042553,0.725
+REM,pi_nominal,52,0.6,0.6893617021,0.6875
+REM,pi_nominal,53,0.8,0.6978723404,0.7
+REM,pi_nominal,54,0.8,0.6957446809,0.6979166667
+REM,pi_nominal,55,0.5,0.7021276596,0.6979166667
+REM,pi_nominal,56,0.8,0.7191489362,0.7208333333
+REM,pi_nominal,57,0.7,0.6446808511,0.6458333333
+REM,pi_nominal,58,0.9,0.7063829787,0.7104166667
+REM,pi_nominal,59,0.7,0.7127659574,0.7125
+REM,pi_nominal,60,1,0.7276595745,0.7333333333
+REM,pi_nominal,61,0.6,0.7553191489,0.7520833333
+REM,pi_nominal,62,0.9,0.7127659574,0.7166666667
+REM,pi_nominal,63,0.7,0.6808510638,0.68125
+REM,pi_nominal,64,0.6,0.685106383,0.6833333333
+REM,pi_nominal,65,0.7,0.7276595745,0.7270833333
+REM,pi_nominal,66,0.7,0.7361702128,0.7354166667
+REM,pi_nominal,67,0.9,0.7319148936,0.7354166667
+REM,pi_nominal,68,0.7,0.7404255319,0.7395833333
+REM,pi_nominal,69,1,0.7319148936,0.7375
+REM,pi_nominal,70,0.8,0.7276595745,0.7291666667
+REM,pi_nominal,71,0.4,0.7191489362,0.7125
+REM,pi_nominal,72,0.6,0.6829787234,0.68125
+REM,pi_nominal,73,0.7,0.7,0.7
+REM,pi_nominal,74,0.7,0.7127659574,0.7125
+REM,pi_nominal,75,1,0.6957446809,0.7020833333
+REM,pi_nominal,76,0.9,0.7787234043,0.78125
+REM,pi_nominal,77,0.7,0.6978723404,0.6979166667
+REM,pi_nominal,78,0.8,0.7212765957,0.7229166667
+REM,pi_nominal,79,0.6,0.7446808511,0.7416666667
+REM,pi_nominal,80,0.9,0.7659574468,0.76875
+REM,pi_nominal,81,1,0.7212765957,0.7270833333
+REM,pi_nominal,82,0.8,0.7106382979,0.7125
+REM,pi_nominal,83,0.7,0.7127659574,0.7125
+REM,pi_nominal,84,0.9,0.7404255319,0.74375
+REM,pi_nominal,85,1,0.7085106383,0.7145833333
+REM,pi_nominal,86,0.5,0.7765957447,0.7708333333
+REM,pi_nominal,87,0.2,0.7021276596,0.6916666667
+REM,pi_nominal,88,0.8,0.7106382979,0.7125
+REM,pi_nominal,89,0.9,0.685106383,0.6895833333
+REM,pi_nominal,90,0.9,0.6765957447,0.68125
+REM,pi_nominal,91,0.7,0.7042553191,0.7041666667
+REM,pi_nominal,92,0.8,0.6957446809,0.6979166667
+REM,pi_nominal,93,0.5,0.7319148936,0.7270833333
+REM,pi_nominal,94,0.4,0.7255319149,0.71875
+REM,pi_nominal,95,0.8,0.714893617,0.7166666667
+REM,pi_nominal,96,0.9,0.6978723404,0.7020833333
+REM,pi_nominal,97,0.6,0.7489361702,0.7458333333
+REM,pi_nominal,98,0.7,0.714893617,0.7145833333
+REM,pi_nominal,99,0.8,0.714893617,0.7166666667
+REM,pi_uniforme,0,0.5,0.7212765957,0.7166666667
+REM,pi_uniforme,1,0.6,0.7021276596,0.7
+REM,pi_uniforme,2,0.6,0.7191489362,0.7166666667
+REM,pi_uniforme,3,1,0.7085106383,0.7145833333
+REM,pi_uniforme,4,0.9,0.7255319149,0.7291666667
+REM,pi_uniforme,5,0.6,0.7085106383,0.70625
+REM,pi_uniforme,6,0.7,0.729787234,0.7291666667
+REM,pi_uniforme,7,0.8,0.685106383,0.6875
+REM,pi_uniforme,8,0.7,0.7574468085,0.75625
+REM,pi_uniforme,9,1,0.7063829787,0.7125
+REM,pi_uniforme,10,0.5,0.6936170213,0.6895833333
+REM,pi_uniforme,11,0.8,0.670212766,0.6729166667
+REM,pi_uniforme,12,0.6,0.6914893617,0.6895833333
+REM,pi_uniforme,13,0.9,0.7340425532,0.7375
+REM,pi_uniforme,14,0.5,0.6957446809,0.6916666667
+REM,pi_uniforme,15,0.9,0.6680851064,0.6729166667
+REM,pi_uniforme,16,0.6,0.7574468085,0.7541666667
+REM,pi_uniforme,17,0.5,0.685106383,0.68125
+REM,pi_uniforme,18,0.5,0.7085106383,0.7041666667
+REM,pi_uniforme,19,0.8,0.7510638298,0.7520833333
+REM,pi_uniforme,20,0.5,0.7276595745,0.7229166667
+REM,pi_uniforme,21,0.5,0.7489361702,0.74375
+REM,pi_uniforme,22,0.4,0.714893617,0.7083333333
+REM,pi_uniforme,23,0.8,0.7170212766,0.71875
+REM,pi_uniforme,24,0.9,0.6936170213,0.6979166667
+REM,pi_uniforme,25,0.4,0.7255319149,0.71875
+REM,pi_uniforme,26,0.9,0.7382978723,0.7416666667
+REM,pi_uniforme,27,0.6,0.6914893617,0.6895833333
+REM,pi_uniforme,28,0.7,0.7042553191,0.7041666667
+REM,pi_uniforme,29,0.6,0.7234042553,0.7208333333
+REM,pi_uniforme,30,1,0.7319148936,0.7375
+REM,pi_uniforme,31,0.6,0.7085106383,0.70625
+REM,pi_uniforme,32,0.7,0.6617021277,0.6625
+REM,pi_uniforme,33,0.7,0.7127659574,0.7125
+REM,pi_uniforme,34,0.3,0.7063829787,0.6979166667
+REM,pi_uniforme,35,0.6,0.7361702128,0.7333333333
+REM,pi_uniforme,36,1,0.7446808511,0.75
+REM,pi_uniforme,37,0.8,0.7382978723,0.7395833333
+REM,pi_uniforme,38,0.8,0.6978723404,0.7
+REM,pi_uniforme,39,1,0.7106382979,0.7166666667
+REM,pi_uniforme,40,1,0.6936170213,0.7
+REM,pi_uniforme,41,0.8,0.6744680851,0.6770833333
+REM,pi_uniforme,42,0.6,0.7340425532,0.73125
+REM,pi_uniforme,43,0.6,0.7723404255,0.76875
+REM,pi_uniforme,44,0.9,0.6957446809,0.7
+REM,pi_uniforme,45,0.9,0.7170212766,0.7208333333
+REM,pi_uniforme,46,0.9,0.7574468085,0.7604166667
+REM,pi_uniforme,47,0.6,0.7255319149,0.7229166667
+REM,pi_uniforme,48,0.8,0.7468085106,0.7479166667
+REM,pi_uniforme,49,0.6,0.7595744681,0.75625
+REM,pi_uniforme,50,0.9,0.6574468085,0.6625
+REM,pi_uniforme,51,0.8,0.7234042553,0.725
+REM,pi_uniforme,52,0.7,0.6893617021,0.6895833333
+REM,pi_uniforme,53,0.8,0.6978723404,0.7
+REM,pi_uniforme,54,0.8,0.6957446809,0.6979166667
+REM,pi_uniforme,55,0.5,0.7021276596,0.6979166667
+REM,pi_uniforme,56,0.8,0.7191489362,0.7208333333
+REM,pi_uniforme,57,0.7,0.6446808511,0.6458333333
+REM,pi_uniforme,58,0.9,0.7063829787,0.7104166667
+REM,pi_uniforme,59,0.7,0.7127659574,0.7125
+REM,pi_uniforme,60,1,0.7276595745,0.7333333333
+REM,pi_uniforme,61,0.6,0.7553191489,0.7520833333
+REM,pi_uniforme,62,0.9,0.7127659574,0.7166666667
+REM,pi_uniforme,63,0.7,0.6808510638,0.68125
+REM,pi_uniforme,64,0.6,0.685106383,0.6833333333
+REM,pi_uniforme,65,0.7,0.7276595745,0.7270833333
+REM,pi_uniforme,66,0.6,0.7361702128,0.7333333333
+REM,pi_uniforme,67,0.9,0.7319148936,0.7354166667
+REM,pi_uniforme,68,0.7,0.7404255319,0.7395833333
+REM,pi_uniforme,69,1,0.7319148936,0.7375
+REM,pi_uniforme,70,0.8,0.7276595745,0.7291666667
+REM,pi_uniforme,71,0.4,0.7191489362,0.7125
+REM,pi_uniforme,72,0.6,0.6829787234,0.68125
+REM,pi_uniforme,73,0.7,0.7,0.7
+REM,pi_uniforme,74,0.7,0.7127659574,0.7125
+REM,pi_uniforme,75,1,0.6957446809,0.7020833333
+REM,pi_uniforme,76,0.9,0.7787234043,0.78125
+REM,pi_uniforme,77,0.7,0.6978723404,0.6979166667
+REM,pi_uniforme,78,0.8,0.7212765957,0.7229166667
+REM,pi_uniforme,79,0.6,0.7446808511,0.7416666667
+REM,pi_uniforme,80,0.9,0.7659574468,0.76875
+REM,pi_uniforme,81,1,0.7212765957,0.7270833333
+REM,pi_uniforme,82,0.8,0.7106382979,0.7125
+REM,pi_uniforme,83,0.7,0.7127659574,0.7125
+REM,pi_uniforme,84,1,0.7404255319,0.7458333333
+REM,pi_uniforme,85,1,0.7085106383,0.7145833333
+REM,pi_uniforme,86,0.5,0.7765957447,0.7708333333
+REM,pi_uniforme,87,0.2,0.7021276596,0.6916666667
+REM,pi_uniforme,88,0.8,0.7106382979,0.7125
+REM,pi_uniforme,89,0.9,0.685106383,0.6895833333
+REM,pi_uniforme,90,0.9,0.6765957447,0.68125
+REM,pi_uniforme,91,0.7,0.7042553191,0.7041666667
+REM,pi_uniforme,92,0.8,0.6957446809,0.6979166667
+REM,pi_uniforme,93,0.5,0.7319148936,0.7270833333
+REM,pi_uniforme,94,0.4,0.7255319149,0.71875
+REM,pi_uniforme,95,0.8,0.714893617,0.7166666667
+REM,pi_uniforme,96,0.9,0.6978723404,0.7020833333
+REM,pi_uniforme,97,0.6,0.7489361702,0.7458333333
+REM,pi_uniforme,98,0.7,0.714893617,0.7145833333
+REM,pi_uniforme,99,0.8,0.714893617,0.7166666667
+REM,pi_estacionaria,0,0.5,0.7212765957,0.7166666667
+REM,pi_estacionaria,1,0.6,0.7021276596,0.7
+REM,pi_estacionaria,2,0.6,0.7191489362,0.7166666667
+REM,pi_estacionaria,3,1,0.7085106383,0.7145833333
+REM,pi_estacionaria,4,0.9,0.7255319149,0.7291666667
+REM,pi_estacionaria,5,0.6,0.7085106383,0.70625
+REM,pi_estacionaria,6,0.7,0.729787234,0.7291666667
+REM,pi_estacionaria,7,0.8,0.685106383,0.6875
+REM,pi_estacionaria,8,0.7,0.7574468085,0.75625
+REM,pi_estacionaria,9,1,0.7063829787,0.7125
+REM,pi_estacionaria,10,0.5,0.6936170213,0.6895833333
+REM,pi_estacionaria,11,0.8,0.670212766,0.6729166667
+REM,pi_estacionaria,12,0.6,0.6914893617,0.6895833333
+REM,pi_estacionaria,13,0.9,0.7340425532,0.7375
+REM,pi_estacionaria,14,0.5,0.6957446809,0.6916666667
+REM,pi_estacionaria,15,0.9,0.6680851064,0.6729166667
+REM,pi_estacionaria,16,0.6,0.7574468085,0.7541666667
+REM,pi_estacionaria,17,0.5,0.685106383,0.68125
+REM,pi_estacionaria,18,0.5,0.7085106383,0.7041666667
+REM,pi_estacionaria,19,1,0.7510638298,0.75625
+REM,pi_estacionaria,20,0.5,0.7276595745,0.7229166667
+REM,pi_estacionaria,21,0.7,0.7489361702,0.7479166667
+REM,pi_estacionaria,22,0.4,0.714893617,0.7083333333
+REM,pi_estacionaria,23,0.8,0.7170212766,0.71875
+REM,pi_estacionaria,24,0.9,0.6936170213,0.6979166667
+REM,pi_estacionaria,25,0.4,0.7255319149,0.71875
+REM,pi_estacionaria,26,0.9,0.7382978723,0.7416666667
+REM,pi_estacionaria,27,0.6,0.6914893617,0.6895833333
+REM,pi_estacionaria,28,0.7,0.7042553191,0.7041666667
+REM,pi_estacionaria,29,0.6,0.7234042553,0.7208333333
+REM,pi_estacionaria,30,1,0.7319148936,0.7375
+REM,pi_estacionaria,31,0.6,0.7085106383,0.70625
+REM,pi_estacionaria,32,0.7,0.6617021277,0.6625
+REM,pi_estacionaria,33,0.7,0.7127659574,0.7125
+REM,pi_estacionaria,34,0.3,0.7063829787,0.6979166667
+REM,pi_estacionaria,35,0.6,0.7361702128,0.7333333333
+REM,pi_estacionaria,36,1,0.7446808511,0.75
+REM,pi_estacionaria,37,0.8,0.7382978723,0.7395833333
+REM,pi_estacionaria,38,0.8,0.6978723404,0.7
+REM,pi_estacionaria,39,1,0.7106382979,0.7166666667
+REM,pi_estacionaria,40,1,0.6936170213,0.7
+REM,pi_estacionaria,41,0.8,0.6744680851,0.6770833333
+REM,pi_estacionaria,42,0.6,0.7340425532,0.73125
+REM,pi_estacionaria,43,0.6,0.7723404255,0.76875
+REM,pi_estacionaria,44,0.9,0.6957446809,0.7
+REM,pi_estacionaria,45,0.9,0.7170212766,0.7208333333
+REM,pi_estacionaria,46,0.9,0.7574468085,0.7604166667
+REM,pi_estacionaria,47,0.6,0.7255319149,0.7229166667
+REM,pi_estacionaria,48,0.8,0.7468085106,0.7479166667
+REM,pi_estacionaria,49,0.6,0.7595744681,0.75625
+REM,pi_estacionaria,50,0.9,0.6574468085,0.6625
+REM,pi_estacionaria,51,0.8,0.7234042553,0.725
+REM,pi_estacionaria,52,0.7,0.6893617021,0.6895833333
+REM,pi_estacionaria,53,0.8,0.6978723404,0.7
+REM,pi_estacionaria,54,0.8,0.6957446809,0.6979166667
+REM,pi_estacionaria,55,0.5,0.7021276596,0.6979166667
+REM,pi_estacionaria,56,0.8,0.7191489362,0.7208333333
+REM,pi_estacionaria,57,0.7,0.6446808511,0.6458333333
+REM,pi_estacionaria,58,0.9,0.7063829787,0.7104166667
+REM,pi_estacionaria,59,0.7,0.7127659574,0.7125
+REM,pi_estacionaria,60,1,0.7276595745,0.7333333333
+REM,pi_estacionaria,61,0.6,0.7553191489,0.7520833333
+REM,pi_estacionaria,62,0.9,0.7127659574,0.7166666667
+REM,pi_estacionaria,63,0.7,0.6808510638,0.68125
+REM,pi_estacionaria,64,0.6,0.685106383,0.6833333333
+REM,pi_estacionaria,65,0.7,0.7276595745,0.7270833333
+REM,pi_estacionaria,66,0.6,0.7361702128,0.7333333333
+REM,pi_estacionaria,67,0.9,0.7319148936,0.7354166667
+REM,pi_estacionaria,68,0.7,0.7404255319,0.7395833333
+REM,pi_estacionaria,69,1,0.7319148936,0.7375
+REM,pi_estacionaria,70,0.8,0.7276595745,0.7291666667
+REM,pi_estacionaria,71,0.6,0.7191489362,0.7166666667
+REM,pi_estacionaria,72,0.6,0.6829787234,0.68125
+REM,pi_estacionaria,73,0.7,0.7,0.7
+REM,pi_estacionaria,74,0.7,0.7127659574,0.7125
+REM,pi_estacionaria,75,1,0.6957446809,0.7020833333
+REM,pi_estacionaria,76,0.9,0.7787234043,0.78125
+REM,pi_estacionaria,77,0.7,0.6978723404,0.6979166667
+REM,pi_estacionaria,78,0.8,0.7212765957,0.7229166667
+REM,pi_estacionaria,79,0.6,0.7446808511,0.7416666667
+REM,pi_estacionaria,80,0.9,0.7659574468,0.76875
+REM,pi_estacionaria,81,1,0.7212765957,0.7270833333
+REM,pi_estacionaria,82,0.8,0.7106382979,0.7125
+REM,pi_estacionaria,83,0.7,0.7127659574,0.7125
+REM,pi_estacionaria,84,1,0.7404255319,0.7458333333
+REM,pi_estacionaria,85,1,0.7085106383,0.7145833333
+REM,pi_estacionaria,86,0.5,0.7765957447,0.7708333333
+REM,pi_estacionaria,87,0.2,0.7021276596,0.6916666667
+REM,pi_estacionaria,88,0.8,0.7106382979,0.7125
+REM,pi_estacionaria,89,0.9,0.685106383,0.6895833333
+REM,pi_estacionaria,90,0.9,0.6765957447,0.68125
+REM,pi_estacionaria,91,0.7,0.7042553191,0.7041666667
+REM,pi_estacionaria,92,0.8,0.6957446809,0.6979166667
+REM,pi_estacionaria,93,0.5,0.7319148936,0.7270833333
+REM,pi_estacionaria,94,0.4,0.7255319149,0.71875
+REM,pi_estacionaria,95,0.8,0.714893617,0.7166666667
+REM,pi_estacionaria,96,0.9,0.6978723404,0.7020833333
+REM,pi_estacionaria,97,0.6,0.7489361702,0.7458333333
+REM,pi_estacionaria,98,0.7,0.714893617,0.7145833333
+REM,pi_estacionaria,99,0.8,0.714893617,0.7166666667
