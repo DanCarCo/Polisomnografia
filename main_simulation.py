@@ -210,16 +210,16 @@ def main(argv=None) -> int:
         acc_night = float(np.mean(states == vit))
         pl.fig_flow(figdir / "fig01_flujo_metodologico.png")
         pl.fig_model(figdir / "fig02_grafo_hmm.png", nom)
-        pl.fig_matrices(figdir / "fig03_matrices_A_B.png", nom.A, nom.B)
-        pl.fig_night(figdir / "fig04_hipnograma_noche.png", states, vit, freqs, spec, acc=acc_night)
-        pl.fig_eeg(figdir / "fig05_senales_eeg.png", np.random.default_rng(ex.seed_sequence(seed, "fig_eeg")))
-        pl.fig_scenarios(figdir / "fig06_escenarios.png", df_all, summ)
-        pl.fig_confusion(figdir / "fig07_matrices_confusion.png", [extras["E1"]["cm_viterbi"], extras["E5"]["cm_viterbi"]],
+        pl.fig_matrices(figdir / "fig08_matrices_A_B.png", nom.A, nom.B)
+        pl.fig_night(figdir / "fig03_hipnograma_noche.png", states, vit, freqs, spec, acc=acc_night)
+        pl.fig_eeg(figdir / "fig10_senales_eeg.png", np.random.default_rng(ex.seed_sequence(seed, "fig_eeg")))
+        pl.fig_scenarios(figdir / "fig04_escenarios.png", df_all, summ)
+        pl.fig_confusion(figdir / "fig09_matrices_confusion.png", [extras["E1"]["cm_viterbi"], extras["E5"]["cm_viterbi"]],
                          ["(a) E1 nominal (Viterbi)", "(b) E5 sueño consolidado (Viterbi)"])
-        pl.fig_sweeps(figdir / "fig08_sensibilidad.png", sweeps)
-        pl.fig_learning(figdir / "fig09_baum_welch.png", learn_df, hist_df)
-        pl.fig_learned(figdir / "fig10_matrices_aprendidas.png", nom, learned_models)
-        pl.fig_pathology(figdir / "fig11_patologias.png", patho_df, sev_df)
+        pl.fig_sweeps(figdir / "fig05_sensibilidad.png", sweeps)
+        pl.fig_learning(figdir / "fig06_baum_welch.png", learn_df, hist_df)
+        pl.fig_learned(figdir / "fig11_matrices_aprendidas.png", nom, learned_models)
+        pl.fig_pathology(figdir / "fig07_patologias.png", patho_df, sev_df)
         pl.fig_validation(figdir / "fig12_validacion_simulador.png", conv_df, stab_df)
         (outdir / "noche_representativa.json").write_text(
             json.dumps({"escenario": "E1", "replica": int(idx), "criterio": "exactitud de Viterbi más cercana a la mediana",

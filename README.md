@@ -34,9 +34,9 @@ y las diapositivas del video pitch.
 
 | Hipnograma real vs Viterbi | Escenarios y decodificadores |
 |---|---|
-| ![Hipnograma](paper/figures/fig04_hipnograma_noche.png) | ![Escenarios](paper/figures/fig06_escenarios.png) |
+| ![Hipnograma](paper/figures/fig03_hipnograma_noche.png) | ![Escenarios](paper/figures/fig04_escenarios.png) |
 
-![Sensibilidad](paper/figures/fig08_sensibilidad.png)
+![Sensibilidad](paper/figures/fig05_sensibilidad.png)
 
 ## Estructura del repositorio
 
@@ -124,7 +124,7 @@ del enunciado (ver `src/sleep_model.py` y la Sección 4 del artículo). Cada fil
 | ≥ 3 escenarios con media, DE, mín, máx e IC95 % | `results/escenarios_resumen.csv` (5 escenarios), Tabla 4 del artículo |
 | ≥ 1 tabla y 2 figuras de calidad publicable (300 dpi) | `paper/figures/` (12 figuras), tablas en `paper/auto/` |
 | Semillas fijas y entorno documentado | `results/environment.json`, `SHA256SUMS.txt` |
-| Hipnograma, señales EEG simuladas, métricas clínicas, Viterbi, alteraciones, informe, heatmap de A | `paper/figures/fig03`–`fig05` y `fig11`, `results/informes/`, `results/patologias_*.csv` |
+| Hipnograma, señales EEG simuladas, métricas clínicas, Viterbi, alteraciones, informe, heatmap de A | `paper/figures/` (`fig03_hipnograma_noche`, `fig08_matrices_A_B`, `fig10_senales_eeg` y `fig07_patologias`), `results/informes/`, `results/patologias_*.csv` |
 | Video pitch de 2–3 min | `video/` (diapositivas; el MP4 debe grabarse) |
 | Antiplagio | Debe ejecutarlo el equipo con la herramienta de la institución |
 
